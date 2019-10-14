@@ -1,0 +1,268 @@
+{
+  "title": "SEHP demo course",
+  "displayTitle": "SEHP demo course",
+  "body": "",
+  "description": "Demo course for SEHP theme",
+  "_latestTrackingId": 27,
+  "_buttons": {
+    "_submit": {
+      "buttonText": "Submit",
+      "ariaLabel": "Submit your answer by clicking here."
+    },
+    "_reset": {
+      "buttonText": "Reset",
+      "ariaLabel": "Reset the question by clicking here."
+    },
+    "_showCorrectAnswer": {
+      "buttonText": "Correct answer",
+      "ariaLabel": "Show the correct answer by clicking here."
+    },
+    "_hideCorrectAnswer": {
+      "buttonText": "My answer",
+      "ariaLabel": "Show the answer you gave by clicking here."
+    },
+    "_showFeedback": {
+      "buttonText": "Show feedback",
+      "ariaLabel": "View the question feedback again by clicking here."
+    },
+    "remainingAttemptsText": "attempts remaining",
+    "remainingAttemptText": "final attempt",
+    "disabledAriaLabel": "This button is disabled at the moment."
+  },
+  "_classes": "",
+  "_lockType": "",
+  "_id": "course",
+  "_globals": {
+    "_accessibility": {
+      "accessibilityToggleTextOn": "Turn accessibility on?",
+      "accessibilityToggleTextOff": "Turn accessibility off?",
+      "skipNavigationText": "Skip navigation",
+      "_accessibilityInstructions": {
+        "touch": "Usage instructions. Use swipe left for next. Use swipe right for previous. Use a double tap to select. Use a two finger slide up to go to the top of the page.",
+        "notouch": "Usage instructions. Use tab for next. Use shift tab for previous. Use enter to select. Use escape to go to the top of the page.",
+        "ipad": "Usage instructions for touchscreens. Use swipe left for next. Use swipe right for previous. Use a double tap to select. Use a two finger slide up to go to the top of the page. Usage instructions for keyboard access. Use left for next. Use right for previous. Use up and down together to select."
+      },
+      "_ariaLabels": {
+        "navigation": "Course navigation bar",
+        "skipNavigation": "Skip Navigation",
+        "menuLoaded": "Menu Loaded.",
+        "page": "Page",
+        "pageLoaded": "Page Loaded.",
+        "previous": "Back",
+        "navigationDrawer": "Open course resources.",
+        "drawer": "Top of side drawer",
+        "closePopup": "Close popup",
+        "next": "Next",
+        "done": "Done",
+        "complete": "Completed",
+        "incomplete": "Incomplete",
+        "correct": "Correct",
+        "incorrect": "Incorrect",
+        "locked": "Locked",
+        "accessibilityToggleButton": "By selecting this button you can set whether accessibility is turned on or off",
+        "feedbackPopUp": "Popup opened.",
+        "visited": "Visited",
+        "menuIndicatorHeading": "Menu item heading "
+      }
+    },
+    "_components": {
+      "_text": {
+        "ariaRegion": ""
+      },
+      "_narrative": {
+        "ariaRegion": "This component displays an image gallery with accompanying text. Use the next and back navigation controls to work through the narrative."
+      },
+      "_media": {
+        "ariaRegion": "This is a media component which plays a video. Select the play / pause button to watch or listen.",
+        "transcriptButton": "Alternatively you can select the link below for the transcript."
+      },
+      "_hotgraphic": {
+        "ariaRegion": "Below is a component which allows you to select hot spots over an image. Select a hot spot to trigger a popup that includes an image with display text. Select the close button to close the popup.",
+        "ariaPopupLabel": "Hotgraphic popup"
+      },
+      "_accordion": {
+        "ariaRegion": "This component is an accordion comprised of collapsible content panels containing display text. Select the item titles to toggle the visibility of these content panels."
+      },
+      "_graphic": {
+        "ariaRegion": ""
+      },
+      "_matching": {
+        "ariaRegion": "This question component requires you to select the matching answer from a drop down list below. When you have selected your answers select the submit button."
+      },
+      "_textinput": {
+        "ariaRegion": "This question component requires you to input your answer in the textbox provided. When you have answered the question select the submit button below."
+      },
+      "_mcq": {
+        "ariaRegion": "This component is a multiple choice question. Once you have selected an option select the submit button below"
+      },
+      "_gmcq": {
+        "ariaRegion": "This component is a graphical multiple choice question. Once you have selected an option select the submit button below."
+      },
+      "_slider": {
+        "ariaRegion": "This component requires you to answer the question by selecting the relevant value. After selecting a value select the submit button below.",
+        "labelStart": "Start of the scale",
+        "labelEnd": "End of the scale"
+      },
+      "_flipcard": {
+        "ariaRegion": "This component is a flipcard comprised of flippable cards containing display image. Select the front face image to flip to the back face of these card to display associated text."
+      },
+      "_hotgrid": {
+        "ariaRegion": "Selectable image component. Select each item to show more information."
+      }
+    },
+    "_extensions": {
+      "_trickle": {
+        "incompleteContent": "There is incomplete content above. You must complete this before you can proceed through the course."
+      },
+      "_pageLevelProgress": {
+        "pageLevelProgress": "Page sections",
+        "pageLevelProgressIndicatorBar": "Progress bar. Select here to view your current progress, and select an item to navigate to it. You have completed ",
+        "pageLevelProgressMenuBar": "You have completed ",
+        "pageLevelProgressEnd": "You have reached the end of the list of page sections.",
+        "optionalContent": "Optional Content"
+      },
+      "_resources": {
+        "resources": "Additional resources."
+      },
+      "_languagePicker": {
+        "navigationBarLabel": "Select course language"
+      },
+      "_close": {
+        "closeButton": "Select here to close the window."
+      }
+    }
+  },
+  "_type": "course",
+  "_start": {
+    "_isEnabled": true,
+    "_startIds": [
+      {
+        "_id": "5d812c307fdf8ce21013f655",
+        "_skipIfComplete": false,
+        "_className": ""
+      }
+    ],
+    "_force": true,
+    "_isMenuDisabled": false
+  },
+  "themeVariables": {
+    "_colors": {
+      "primary-color": "#078292",
+      "primary-color-inverted": "#ffffff",
+      "secondary-color": "#4b4e4f",
+      "secondary-color-inverted": "#ffffff",
+      "tertiary-color": "#ffffff",
+      "tertiary-color-inverted": "#4b4e4f",
+      "quaternary-color": "#37474f",
+      "quaternary-color-inverted": "#ffffff",
+      "foreground-color": "#4b4e4f",
+      "background-color": "#ffffff",
+      "foreground-color-inverted": "#ffffff",
+      "background-color-inverted": "#546e7a",
+      "validation-error": "#f26c4f",
+      "validation-success": "#82ca9c",
+      "disabled-color": "#727272",
+      "disabled-color-inverted": "#cccccc"
+    }
+  },
+  "_assessment": {
+    "_postTotalScoreToLms": true,
+    "_isPercentageBased": true,
+    "_scoreToPass": 75
+  },
+  "_pageLevelProgress": {
+    "_isEnabled": true,
+    "_showPageCompletion": false
+  },
+  "_resources": {
+    "_isEnabled": true,
+    "_drawerOrder": 0,
+    "title": "Resources",
+    "description": "View resources for this course by clicking here.",
+    "_filterButtons": {
+      "all": "All",
+      "document": "Document",
+      "media": "",
+      "link": "Link"
+    },
+    "_filterAria": {
+      "allAria": "View all resources",
+      "documentAria": "View document resources",
+      "mediaAria": "View media resources",
+      "linkAria": "View resource links"
+    },
+    "_resourcesItems": [
+      {
+        "_type": "document",
+        "_forceDownload": true,
+        "title": "Empty Home Council Tax Liability Flowchart",
+        "filename": "Liability Flowchart",
+        "description": "Empty Home Council Tax Liability Flowchart",
+        "_link": "course/en/assets/49e6f8cf77b6b34c40581018f0853bb45ad72c70.pdf"
+      },
+      {
+        "_type": "document",
+        "_forceDownload": true,
+        "title": "Empty Homes Advice Flowchart",
+        "filename": "Advice Flowchart",
+        "description": "Empty Homes Advice Flowchart",
+        "_link": "course/en/assets/769aec67002ee4c0c8f5ff3ea3c560b4a4a0d19a.pdf"
+      },
+      {
+        "_type": "link",
+        "_forceDownload": false,
+        "title": "Scottish Empty Homes Partnership",
+        "filename": "SEHP Website",
+        "description": "SEHP Website",
+        "_link": "https://scotland.shelter.org.uk/empty_homes"
+      },
+      {
+        "_type": "link",
+        "_forceDownload": false,
+        "title": "Empty Homes Advice Service",
+        "filename": "Website contact details",
+        "description": "Empty Homes Advice Service",
+        "_link": "https://scotland.shelter.org.uk/empty_homes/empty_homes_advice_service"
+      }
+    ]
+  },
+  "_bookmarking": {
+    "_isEnabled": true,
+    "_level": "component",
+    "_showPrompt": true,
+    "title": "Bookmarking",
+    "body": "Would you like to continue where you left off?",
+    "_buttons": {
+      "yes": "Yes",
+      "no": "No"
+    }
+  },
+  "_drawerPageNavigation": {
+    "_isEnabled": true,
+    "title": "Navigation",
+    "description": "Click here to navigate this course"
+  },
+  "_close": {
+    "_isEnabled": true,
+    "_button": {
+      "_closeViaLMSFinish": false,
+      "_isEnabled": true,
+      "_notifyPromptIfIncomplete": {
+        "_isEnabled": false,
+        "title": "Confirm close",
+        "body": "<p>Are you sure you want to close the window?</p>",
+        "confirm": "Close window",
+        "cancel": "Cancel"
+      },
+      "_notifyPromptIfComplete": {
+        "_isEnabled": false,
+        "title": "Confirm close",
+        "body": "<p>Are you sure you want to close the window?</p>",
+        "confirm": "Close window",
+        "cancel": "Cancel"
+      }
+    },
+    "browserPromptIfIncomplete": "",
+    "browserPromptIfComplete": ""
+  }
+}

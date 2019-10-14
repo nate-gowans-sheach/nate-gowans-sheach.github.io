@@ -1,0 +1,1359 @@
+[
+  {
+    "_component": "media",
+    "_classes": "no-padding",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Media",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5d812c317fdf8ce21013f672",
+    "_parentId": "5d812c317fdf8ce21013f661",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "course/en/assets/7aa90ce53af3d6cdeea03a4e40fa98d6392253de.mp4",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "course/en/assets/74d63ab7aa55d5bef7e0143a06ed0a940f505296.jpg",
+      "cc": [
+        {
+          "srclang": "en",
+          "src": "course/en/assets/07b7dc8a9474d766df7406be2f6456f431d60379.vtt"
+        }
+      ]
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": true,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": true,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "Transcript",
+      "inlineTranscriptCloseButton": "Close Transcript",
+      "inlineTranscriptBody": "<p dir=\"ltr\">Welcome to <em>'An introduction to empty homes work'</em>. The first module in a series of five, brought to you by the Scottish Empty Homes Partnership.</p><p dir=\"ltr\">We're really happy to have you with us on the training program and can't wait to get you started learning with us.</p><p dir=\"ltr\">We are focussed on capacity building and increasing the total size of the Scottish Empty Homes Officer network. So we believe this training module will be a mutually beneficial one. As we seek to bring you up to speed on what we mean by empty homes work.</p><p dir=\"ltr\">While the training program is targeted towards Empty Homes Officers and practitioners who are transitioning into empty homes work. Our ultimate aim is to have a dedicated Empty Homes Officer in every Local Authority.</p><p dir=\"ltr\"><em>'An introduction to empty homes work'</em> is the perfect module for all those who want to get an introduction to The Scottish Empty Homes Partnership. And what we mean by empty homes and empty homes work.</p><p dir=\"ltr\">Here we introduce you to the problems empty homes cause. Why they should be brought back into use. As well as the strategic benefits and gains of bringing empty homes back into use.</p><p dir=\"ltr\">The Scottish Empty Homes Partnership training is all about you. We want to provide you with the knowledge and resources to support you and enhance your capabilities.</p>",
+      "transcriptLinkButton": "Transcript",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Welcome",
+    "displayTitle": "Welcome",
+    "body": "<p>Welcome to <span style=\"color:#002b52\"><strong><em>‘An introduction to empty homes’</em></strong></span>. We are delighted to have you with us here in module one of five on the Scottish Empty Homes Partnership training program.</p><p>In this module we provide an overview of what we mean by both empty homes and empty homes work. We include insights into the strategy behind empty homes work, the gains and benefits to local authorities as well as to the communities people live in.</p><p>You will also get the chance to understand exactly who the Scottish Empty Homes Partnership are, the work we do and how you can get involved to further the cause.</p>",
+    "_id": "5d812c317fdf8ce21013f676",
+    "_parentId": "5d812c317fdf8ce21013f662",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "What is an empty home?",
+    "displayTitle": "What is an empty home?",
+    "body": "<p>Select through the information in the slides:</p>",
+    "_id": "5d812c317fdf8ce21013f677",
+    "_parentId": "5d812c317fdf8ce21013f663",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "mobileInstruction": "This is optional instruction text that will be shown when viewed on mobile.",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Private sector empty homes",
+        "body": "<p>When we refer to empty homes, what we're actually referring to are long-term, private sector empty homes.</p><p>This is a home which has been empty for at least <span style=\"color:#002b52\"><strong>6 months</strong></span> and are often referred to officially as long-term empties, or LTEs.</p><p>We don't focus on properties which have been empty for less than 6 months. Because many of these properties are only empty as a result of occupiers leaving and a gap existing before the next occupier moves in.</p><p>Many are also empty due to a death, and it would not be appropriate to intervene until at least 6 months has passed.&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/8d14989d5f947a3c3bdf42f59085265e3d58fc03.png",
+          "alt": "6 month private sector",
+          "attribution": ""
+        },
+        "strapline": "Here is the first..."
+      },
+      {
+        "title": "Why only focus on the private sector? ",
+        "body": "<p>So we only focus on private sector empty properties.</p><p>This is now most properties in Scotland, as social housing stock has shrunk over the last <span style=\"color:#002b52\"><strong>40 years</strong></span>.</p><p>Social housing (i.e council housing and housing associations) is regulated by the Scottish Housing Regulator.&nbsp;</p><p>Social landlords have targets to meet in terms of getting properties back into use promptly.</p>",
+        "_graphic": {
+          "src": "course/en/assets/45312783ec5e9f77d376e830f4be4de691b8d0c7.png",
+          "alt": "40 year social housing stock",
+          "attribution": ""
+        },
+        "strapline": "Now comes the second..."
+      },
+      {
+        "title": "Empty social housing still has an end purpose",
+        "body": "<p>Our focus on private sector empty homes, is not because social landlords do not have long term empty properties.&nbsp;</p><p>For instance a number have large regeneration areas with lots of empty stock, awaiting demolition.&nbsp;</p><p>The main point here is that this stock still has an end purpose. Whereas there is no such regulation of private sector empties.&nbsp;</p><p>Meaning that without an intervention, an owner could in theory keep their property empty indefinitely.</p>",
+        "_graphic": {
+          "src": "course/en/assets/b4609993a192c1c471be2611083ae872e0b52f80.png",
+          "alt": "Social housing stock has an end purpose",
+          "attribution": ""
+        },
+        "strapline": "Third here!"
+      }
+    ]
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Our main focus",
+    "displayTitle": "Our main focus",
+    "body": "<p>Our main focus is on capacity building, to increase the total size of the Scottish Empty Homes Officer Network. Our ultimate aim is to have a dedicated Empty Homes Officer in every local authority.</p><p>We host Best Practice Group meetings, in order to allow Empty Homes Officers to meet up regularly and share learning.&nbsp;</p><p>We also host a Knowledge Hub online to do the same thing. The Knowledge Hub contains a wealth of information that an Empty Homes Officer might find useful, such as letter templates, guides and tools.&nbsp;</p><p><span style=\"color:#002b52\"><strong>Note:</strong></span> you will be able to access the Knowlledge Hub from the resources area in the menu.</p>",
+    "_id": "5d812c317fdf8ce21013f67b",
+    "_parentId": "5d812c317fdf8ce21013f664",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Here is a graphic object",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5d812c317fdf8ce21013f67c",
+    "_parentId": "5d812c317fdf8ce21013f664",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "alt text",
+      "large": "course/en/assets/71b823b475bb262fd754b1ff6a3c6e124519cf1b.jpg",
+      "small": "course/en/assets/71b823b475bb262fd754b1ff6a3c6e124519cf1b.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "hotgraphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "What problems do empty homes cause?",
+    "displayTitle": "What problems do empty homes cause?",
+    "body": "<p><span style=\"color:#FFFFFF\"><span style=\"background-color:#003764\">Select the hotspots on the image to reveal further information.</span></span></p><p>&nbsp;</p>",
+    "_id": "5d812c317fdf8ce21013f67f",
+    "_parentId": "5d812c317fdf8ce21013f665",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "src": "course/en/assets/18da993aa78c5190fff53fdbfacf589fd278d4a7.png",
+      "alt": "A front door to a house",
+      "attribution": ""
+    },
+    "mobileBody": "<p>This is optional body text that will be shown when viewed on mobile.</p>",
+    "mobileInstruction": "<p>This is optional instruction text that will be shown when viewed on mobile.</p>",
+    "_hidePagination": false,
+    "_canCycleThroughPagination": false,
+    "_useGraphicsAsPins": false,
+    "_items": [
+      {
+        "title": "From a council's point of view",
+        "body": "<p>From a council’s point of view, empty homes can be just as much of a nuisance as they are to owners. Of course, many empty homes simply go unnoticed by the council, on an operational level at least.</p><p>The majority are reasonably well-maintained, at least initially. Once a property becomes visibly empty, it starts to create problems for neighbours, and this is often when councils receive complaints about the property.</p>",
+        "strapline": "strapline...",
+        "_graphic": {
+          "src": "course/en/assets/958a68088ac05021956187c30fa56af3ede29631.png",
+          "alt": "alt text",
+          "attribution": "",
+          "title": "",
+          "_classes": ""
+        },
+        "_classes": "top-left",
+        "_left": 20,
+        "_top": 18
+      },
+      {
+        "title": "Severity of the disrepair",
+        "body": "<p>Depending on the severity of the disrepair, and the property’s situation (i.e. whether it is a prominent building, attached to other nearby properties which will also suffer), from this point onwards the property will start to cost the council money.</p><p>Initially this consists of just staff time, from taking the first complaint, to visiting the property itself and investigating, and then further investigations after that point.</p>",
+        "strapline": "strapline...",
+        "_graphic": {
+          "src": "course/en/assets/682ff7e7a08145cacfff19995d1dbf11be01294e.png",
+          "alt": "alt text",
+          "attribution": "",
+          "title": "",
+          "_classes": ""
+        },
+        "_classes": "center",
+        "_left": 60,
+        "_top": 25
+      },
+      {
+        "title": "50% of long-term empty homes",
+        "body": "<p>At least 50% of long-term empty homes are in council tax arrears of some kind, and normally the very worst properties tend to accumulate large amounts of arrears over the years.</p><p>If the property is in serious disrepair and threatening adjacent buildings, the council may be forced to make emergency repairs, which are normally billed back to the owner who often doesn’t pay.</p>",
+        "strapline": "strapline...",
+        "_graphic": {
+          "src": "course/en/assets/814527cb7bd0e99492f905ae9cf9008bef743763.png",
+          "alt": "",
+          "attribution": "",
+          "title": "",
+          "_classes": ""
+        },
+        "_classes": "",
+        "_left": 3,
+        "_top": 43
+      },
+      {
+        "title": "Securing the property ",
+        "body": "<p>If the property is at risk from break-ins, and resultant problems such as theft and arson, the council will have to secure the property.</p><p>Finally, there are the legal costs&nbsp;associated for pursuing the owner for all aforementioned debts and taking action against the owner.</p>",
+        "strapline": "strapline...",
+        "_graphic": {
+          "src": "course/en/assets/d8d4c3a505dd6cdd7472335e08f485b0a4c03323.png",
+          "alt": "",
+          "attribution": "",
+          "title": "",
+          "_classes": ""
+        },
+        "_classes": "",
+        "_left": 48,
+        "_top": 55
+      },
+      {
+        "title": "Costs compared to intervention",
+        "body": "<p>In all, the costs that mount with very serious empty homes cases can accumulate to large levels; on occasions, tens of thousands of pounds.</p><p>In many of these cases, a small intervention early on in the process could have prevented all of the arrears from building up by helping the owner bring their property back into use.</p>",
+        "strapline": "strapline...",
+        "_graphic": {
+          "src": "course/en/assets/106a31274fe1e33d32807999a5b4a3e11d1a3182.png",
+          "alt": "",
+          "attribution": "",
+          "title": "",
+          "_classes": ""
+        },
+        "_classes": "",
+        "_left": 22,
+        "_top": 76
+      },
+      {
+        "title": "Empty Homes Officers are invaluable ",
+        "body": "<p>This is why Empty Homes Officers are invaluable not only for helping to recover high arrears built up in intransigent, long-term cases, but most importantly, in ensuring that no other empty home owner is left unsupported again.</p>",
+        "strapline": "strapline...",
+        "_graphic": {
+          "src": "course/en/assets/6513932ffa6afddcd3664e68d7381bad96d2aa3d.png",
+          "alt": "",
+          "attribution": "",
+          "title": "",
+          "_classes": ""
+        },
+        "_classes": "",
+        "_left": 85,
+        "_top": 54
+      }
+    ]
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Lauder Road",
+    "displayTitle": "Lauder Road, Kirkcaldy",
+    "body": "Culpa arbitror se magna labore. Aliquip philosophari non proident, legam deserunt non tamen eram, iis aute ullamco adipisicing quo anim ad consequat. Se cillum sed quem sed ad sed ipsum aliquip.Sed irure offendit probant ita tempor sempiternum deserunt sunt vidisse, nam a export quorum nisi, occaecat ex amet. Et aut enim multos sint ex o esse instituendarum, nescius ipsum officia commodo, appellat sed incurreret. Offendit nulla mandaremus excepteur. Probant sed ipsum incurreret, ullamco quem mentitum.",
+    "_id": "5d812c317fdf8ce21013f683",
+    "_parentId": "5d812c317fdf8ce21013f666",
+    "_type": "component",
+    "_layout": "full",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "alt text",
+      "large": "course/en/assets/526af98522cd672c751527ae9ea9b24e79854c39.jpg",
+      "small": "course/en/assets/526af98522cd672c751527ae9ea9b24e79854c39.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Edward Street",
+    "displayTitle": "Edward Street, Kirkcaldy",
+    "body": "Id duis ea noster. Singulis o amet nescius, malis voluptate offendit a cernantur exercitation non nescius, aliquip irure singulis de culpa iudicem ne iudicem quo sunt exercitation ullamco fore mentitum, malis quamquam fidelissimae, irure mentitum concursionibus. Nam noster elit velit proident, non multos non labore, a probant an consequat an qui ullamco tractavissent ab possumus est minim in non occaecat et quibusdam ita ex veniam irure malis cernantur do aut velit id amet.",
+    "_id": "5d812c317fdf8ce21013f686",
+    "_parentId": "5d812c317fdf8ce21013f669",
+    "_type": "component",
+    "_layout": "full",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "alt text",
+      "large": "course/en/assets/526af98522cd672c751527ae9ea9b24e79854c39.jpg",
+      "small": "course/en/assets/526af98522cd672c751527ae9ea9b24e79854c39.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Lauder Way",
+    "displayTitle": "Lauder Way, Kirkcaldy",
+    "body": "<p>Velit proident non sunt velit. Est pariatur de vidisse. Magna consequat tractavissent te aliquip instituendarum eu proident, ne ita ipsum sint quem, occaecat legam multos e summis, nescius fore duis singulis amet ubi eram fidelissimae incurreret aliqua fabulas, quem non doctrina a excepteur sunt fugiat a quae. Minim et mentitum, litteris cohaerescant quo admodum.</p>",
+    "_id": "5d812c317fdf8ce21013f689",
+    "_parentId": "5d812c317fdf8ce21013f66c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "alt text",
+      "large": "course/en/assets/dc8a2ab0ea3857d95af33d7b67f94224de06e07d.jpg",
+      "small": "course/en/assets/71b823b475bb262fd754b1ff6a3c6e124519cf1b.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "hotgrid",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Adapt Hotgrid",
+    "displayTitle": "Adapt Hotgrid",
+    "body": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis.",
+    "_id": "5d812c317fdf8ce21013f68c",
+    "_parentId": "5d812c317fdf8ce21013f66f",
+    "_type": "component",
+    "_layout": "full",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_columns": 3,
+    "_items": [
+      {
+        "title": "Grid Item 1",
+        "body": "This is display text 1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.",
+        "_graphic": {
+          "src": "course/en/assets/8144cc8ba9f37c27c849b265cb379dec41e2e0f0.jpg",
+          "srcHover": "",
+          "srcVisited": "",
+          "alt": "alt text here test",
+          "title": "Item Title 1"
+        },
+        "_itemGraphic": {
+          "src": "course/en/assets/8144cc8ba9f37c27c849b265cb379dec41e2e0f0.jpg",
+          "alt": "alt text"
+        }
+      },
+      {
+        "title": "Grid Item 2",
+        "body": "This is display text 1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.",
+        "_graphic": {
+          "src": "course/en/assets/8144cc8ba9f37c27c849b265cb379dec41e2e0f0.jpg",
+          "srcHover": "",
+          "srcVisited": "",
+          "alt": "",
+          "title": "Item Title 2"
+        },
+        "_itemGraphic": {
+          "src": "course/en/assets/8144cc8ba9f37c27c849b265cb379dec41e2e0f0.jpg",
+          "alt": "alt text"
+        }
+      },
+      {
+        "title": "Grid Item 3",
+        "body": "This is display text 1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.",
+        "_graphic": {
+          "src": "course/en/assets/8144cc8ba9f37c27c849b265cb379dec41e2e0f0.jpg",
+          "srcHover": "",
+          "srcVisited": "",
+          "alt": "",
+          "title": "Item Title 3"
+        },
+        "_itemGraphic": {
+          "src": "course/en/assets/8144cc8ba9f37c27c849b265cb379dec41e2e0f0.jpg",
+          "alt": "alt text"
+        }
+      }
+    ]
+  },
+  {
+    "_component": "flipcard",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Flip Card",
+    "displayTitle": "Flip Card",
+    "body": "<p>This is optional body text. Click the image below to reveal the text.</p>",
+    "_id": "5d812c317fdf8ce21013f693",
+    "_parentId": "5d812c317fdf8ce21013f670",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_flipType": "allFlip",
+    "_flipTime": 400,
+    "_items": [
+      {
+        "frontImage": {
+          "src": "course/en/assets/526af98522cd672c751527ae9ea9b24e79854c39.jpg",
+          "alt": "flipcard item 1 graphic alt text here."
+        },
+        "backTitle": "Heading 1",
+        "backBody": "This is display text 1."
+      },
+      {
+        "frontImage": {
+          "src": "course/en/assets/526af98522cd672c751527ae9ea9b24e79854c39.jpg",
+          "alt": "flipcard item 1 graphic alt text here."
+        },
+        "backTitle": "Heading 2",
+        "backBody": "<ul><li>This is list item 1.</li><li>This is list item 2.</li></ul>"
+      }
+    ]
+  },
+  {
+    "_component": "accordion",
+    "_classes": "no-padding",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Accordion",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5d812c317fdf8ce21013f696",
+    "_parentId": "5d812c317fdf8ce21013f671",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Assessment",
+        "body": "<p>Complete the assessment questions below for the module 'An introduction to empty homes work'.</p><p>Note: You must complete this assessment in order to receive your certificate of completion.</p><p><iframe width=\"640px\" height= \"480px\" src= \"https://forms.office.com/Pages/ResponsePage.aspx?id=gCAAK3_gpE-WU1S_fGTCq2ZsI-XWxCNEpyIs9V-rxdZUNEVZQzVENDNGTFVMTEYzRVlCTlNCQ1dEOC4u&embed=true\" frameborder= \"0\" marginwidth= \"0\" marginheight= \"0\" style= \"border: none; max-width:100%; max-height:100vh\" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Evaluation",
+        "body": "<p>Complete the evaluation questions below for the module 'An introduction to empty homes work'.&nbsp;</p><p>Note: Completing the evaluation questions will help us to tailor and improve the Scottish Empty Homes Partnership training program.</p><iframe width=\"640px\" height= \"480px\" src= \"https://forms.office.com/Pages/ResponsePage.aspx?id=gCAAK3_gpE-WU1S_fGTCq2ZsI-XWxCNEpyIs9V-rxdZUQkhKTFY0NDVXTk0yM1hLVkJOMk1FSEMzVC4u&embed=true\" frameborder= \"0\" marginwidth= \"0\" marginheight= \"0\" style= \"border: none; max-width:100%; max-height:100vh\" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Share",
+        "body": "This is display text 3.",
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Ravenscraig Flats",
+    "displayTitle": "Ravenscraig Flats",
+    "body": "<p>Testing 150</p>",
+    "_id": "5d8137187fdf8ce21013f6a9",
+    "_parentId": "5d8136697fdf8ce21013f6a4",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/8144cc8ba9f37c27c849b265cb379dec41e2e0f0.jpg",
+      "small": "course/en/assets/8144cc8ba9f37c27c849b265cb379dec41e2e0f0.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Contents",
+    "displayTitle": "Contents",
+    "body": "<p dir=\"ltr\"><strong><span style=\"color:#002B52\">Note:</span>&nbsp;</strong>This training module is designed for you to scroll and read articles and interact with content as you do so<strong>. </strong>You can however navigate between the following pages at any time by using the menu on the top right. There you will also find other helpful resources to support your introduction to empty homes.</p><p dir=\"ltr\"><span style=\"color:#002B52\"><strong>Page one - Home page (video)</strong></span></p><ul style=\"list-style-type:square\"><li>Home page (video)</li></ul><p><span style=\"color:#002B52\"><strong>Page two - An introduction to empty homes</strong></span></p><ul style=\"list-style-type:square\"><li>What is an empty home?</li><li>Who we are</li><li>What problems do empty homes cause?</li><li>Why is it important to bring empty homes back into use?</li><li>What are the benefits of empty homes work?&nbsp;</li><li>What do Empty Homes Officers (EHOs) typically do?</li><li>What are the outcomes?</li></ul><p dir=\"ltr\"><span style=\"color:#002B52\"><strong>Page three - Visual outcomes (case studies)</strong></span></p><ul style=\"list-style-type:square\"><li>Visual outcomes (case studies)</li></ul><p dir=\"ltr\"><span style=\"color:#002B52\"><strong>Page four - Next steps</strong></span></p><ul style=\"list-style-type:square\"><li>Assessment&nbsp;</li><li>Evaluation</li><li>Share&nbsp;</li></ul>",
+    "_id": "5d8b6dd37fdf8ce21013f6b4",
+    "_parentId": "5d8b6d647fdf8ce21013f6b2",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5d8b6ddd7fdf8ce21013f6b5",
+    "_parentId": "5d8b6d647fdf8ce21013f6b2",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/c5b3b76a987431ddbd756b7dc28e68ffea2b97f8.jpg",
+      "small": "course/en/assets/c5b3b76a987431ddbd756b7dc28e68ffea2b97f8.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "flipcard",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Practical information",
+    "displayTitle": "Practical information",
+    "body": "<p>Select the images below for more information:&nbsp;</p>",
+    "_id": "5d8b743e7fdf8ce21013f6bf",
+    "_parentId": "5d8b73cc7fdf8ce21013f6bc",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_flipType": "allFlip",
+    "_flipTime": 400,
+    "_items": [
+      {
+        "frontImage": {
+          "alt": "How long this training module will take",
+          "src": "course/en/assets/a5726561721f1f31205ef754ea732d88ce36939c.jpg"
+        },
+        "backTitle": "",
+        "backBody": "<p><span style=\"color:#002b52\"><span style=\"background-color:#ffb92d\">Practical information about this training module:</span></span></p><p><span style=\"color:#FFFFFF\">This module is delivered entirely online and takes an estimated <strong>1-2hrs</strong>&nbsp;to complete.</span></p><p><span style=\"color:#FFFFFF\">So long as this module remains&nbsp;part of the Scottish Empty Homes Partnership. Students will be able to return to use the materials within it as many times as they like.</span></p><p><span style=\"color:#FFFFFF\">Your progress is saved should you close and return to the module.</span></p>"
+      },
+      {
+        "frontImage": {
+          "alt": "Self-serving. Students complete this training module by themselves.",
+          "src": "course/en/assets/df1b589790620dea421787c66ef334fd29689793.jpg"
+        },
+        "backTitle": "",
+        "backBody": "<p><span style=\"color:#002b52\"><span style=\"background-color:#ffb92d\">Practical information about the overall training program:</span></span></p><p><span style=\"color:#FFFFFF\">The training program is made up&nbsp;of five short online modules.</span></p><p><span style=\"color:#FFFFFF\">Self-serve. Students can complete each module and access a certificate of completion without having to submit their work to an assessor.</span></p><p><span style=\"color:#FFFFFF\">Certificates are issued by the&nbsp;learning coordinator.&nbsp;Who issues these awards once students have completed the assessment and evaluation questions at the end of each module.&nbsp;</span></p>"
+      }
+    ]
+  },
+  {
+    "_component": "hotgrid",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Who we are ",
+    "displayTitle": "Who we are ",
+    "body": "<p>Select the images below for more information:</p>",
+    "_id": "5d8d00917fdf8ce21013f6ee",
+    "_parentId": "5d8d00617fdf8ce21013f6eb",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_columns": 3,
+    "_items": [
+      {
+        "title": "The Scottish Empty Homes Partnership",
+        "body": "<p><span style=\"color:#ffffff\">The Scottish Empty Homes Partnership is funded by the Scottish Government and hosted by Shelter Scotland.&nbsp;</span></p><p><span style=\"color:#ffffff\">Our objectives include:</span></p><ul style=\"list-style-type:square\"><li><span style=\"color:#ffffff\">To have a dedicated Empty Homes Officer (EHO) in every local authority in Scotland</span></li><li><span style=\"color:#ffffff\">To support the national network of Empty Homes Officers</span></li><li><span style=\"color:#ffffff\">Encourage councils, Registered Social Landlords (RSLs) and other private and community bodies to engage in empty homes work</span></li><li><span style=\"color:#ffffff\">Encourage councils to mainstream empty homes work.</span></li></ul>",
+        "_graphic": {
+          "src": "course/en/assets/7b8fc16af30d2b46ea6cd1d0dfca4ec1d0b6fa82.jpg",
+          "srcHover": "",
+          "srcVisited": "",
+          "alt": "The Scottish Empty Homes Partnership",
+          "title": "The Scottish Empty Homes Partnership"
+        },
+        "_itemGraphic": {
+          "src": "course/en/assets/7b8fc16af30d2b46ea6cd1d0dfca4ec1d0b6fa82.jpg",
+          "alt": "The Scottish Empty Homes Partnership"
+        }
+      },
+      {
+        "title": "The Scottish Government ",
+        "body": "<p><span style=\"color:#FFFFFF\">We were formed in 2010 as a result of the Scottish Government's 2009 review of the Private Rented Sector.&nbsp;</span></p><p><span style=\"color:#FFFFFF\">The review concluded that there was not enough being done in Scotland to combat private sector long term empty homes.</span></p><p><span style=\"color:#ffb92d\"><strong>Note:</strong></span><span style=\"color:#FFFFFF\"> you can view the Scottish Government's 2009 review in the resources area of the menu.</span></p>",
+        "_graphic": {
+          "src": "course/en/assets/d94e3c1119ec7e50ce88ec418dc1582886c74fcf.jpg",
+          "srcHover": "",
+          "srcVisited": "",
+          "alt": "The Scottish Government ",
+          "title": "The Scottish Government "
+        },
+        "_itemGraphic": {
+          "src": "course/en/assets/d94e3c1119ec7e50ce88ec418dc1582886c74fcf.jpg",
+          "alt": "The Scottish Government "
+        }
+      },
+      {
+        "title": "Shelter Scotland",
+        "body": "<p><span style=\"color:#FFFFFF\">We are hosted by Shelter Scotland, sharing our head office at 6 South Charlotte Street, Edinburgh.&nbsp;</span></p><p><span style=\"color:#FFFFFF\">Shelter Scotland exists to defend the right to a safe home for everyone.&nbsp;</span></p><p><span style=\"color:#FFFFFF\">The Scottish Empty Homes Partnership supports Shelter Scotland's mission, quite simply&nbsp;by being able to bring housing stock back in to use.&nbsp;</span></p>",
+        "_graphic": {
+          "src": "course/en/assets/a447c07a10dd2a7adf9abb10a08cf9203b1bb753.jpg",
+          "srcHover": "",
+          "srcVisited": "",
+          "alt": "Shelter Scotland",
+          "title": "Shelter Scotland"
+        },
+        "_itemGraphic": {
+          "src": "course/en/assets/a447c07a10dd2a7adf9abb10a08cf9203b1bb753.jpg",
+          "alt": "Shelter Scotland"
+        }
+      }
+    ]
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "More about us",
+    "displayTitle": "More about us",
+    "body": "<p>We hold an annual empty homes conference, normally in November each year. We also host seminars on topical issues two/three times a year, depending on demand.&nbsp;</p><p>Examples of previous seminar topics include:</p><ul style=\"list-style-type:square\"><li>Compulsory Purchase Orders</li><li>Private Residential Tenancy.</li></ul>",
+    "_id": "5d8d1f3b7fdf8ce21013f710",
+    "_parentId": "5d8d1f147fdf8ce21013f70d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Why is it important to bring them back into use?",
+    "displayTitle": "Why is it important to bring them back into use?",
+    "body": "<p>Scotland, like the rest of the UK, is currently in the midst of a housing emergency. There are too few available properties relative to the number of people who need housing.</p><p>At the same time, there are tens of thousands of properties just sitting empty. This doesn’t make sense, and we believe that even though these properties alone cannot solve the housing crisis, bringing them back into use could make a significant contribution.</p><p>Empty properties also cause a blight on the local community. Apart from the obvious frustration caused by seeing property sitting empty when so many are in need of a home, a visibly empty property can be a real eyesore. This can cause a lack of pride in a person’s local area and could stymie regeneration efforts. For instance, in an area with a mixture of social housing and private homes, a large-scale renovation of social housing could be undermined simply by one dilapidated empty property in the middle of a block of flats or a row of houses.</p><p>It is expensive to maintain an empty home, with security costs and energy costs, if the owner wishes to keep it maintained to a reasonable standard. There are also costs such as council tax to be considered.</p><p>In Scotland, empty homes are exempt from council tax for the first six months from the date they became empty. They are then eligible for a charge of between 50% and 90% of the full charge for the following six months. After the property has been empty for over a year, the council is able to charge up&nbsp;to 200% of the normal council tax rate, which is obviously a significant amount of money for some owners.</p>",
+    "_id": "5d9e54997fdf8ce21013f72b",
+    "_parentId": "5d9e543f7fdf8ce21013f728",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5d9e549d7fdf8ce21013f72c",
+    "_parentId": "5d9e543f7fdf8ce21013f728",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/094905adf68f110161bb688e534499e6f58653a8.png",
+      "small": "course/en/assets/094905adf68f110161bb688e534499e6f58653a8.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "What are the benefits of empty homes work?",
+    "displayTitle": "What are the benefits of empty homes work?",
+    "body": "<p>Everybody gains from empty homes being brought back into use:</p><ul style=\"list-style-type:square\"><li>Financial gains for the council</li><li>Benefits for the local community</li><li>Housing supply</li><li>Environmental benefits.</li></ul>",
+    "_id": "5d9e56c57fdf8ce21013f734",
+    "_parentId": "5d9e569b7fdf8ce21013f731",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Financial gains for the council",
+    "displayTitle": "Financial gains for the council",
+    "body": "<p>The main financial gain for the council is normally through recovery of council tax debt. Empty home owners are more likely to be in debt than other property owners, partly due to the fact that many are in financial difficulty, plus the number struggling with other issues. The increased council tax levy has also added to the problem, as the simple fact that empty home owners face an increased charge means they are more likely to fall into arrears.</p><p>By working with an owner and, hopefully, bringing them onside, an empty homes officer will increase the chances of the council tax being paid. By helping to resolve the empty home, there is also a greater chance of council tax being paid, as occupiers are more likely to pay than absent owners. Plus, owners who are in debt will most likely pay off that debt upon sale of their house.</p>",
+    "_id": "5d9e588b7fdf8ce21013f739",
+    "_parentId": "5d9e58567fdf8ce21013f735",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5d9e588f7fdf8ce21013f73a",
+    "_parentId": "5d9e58567fdf8ce21013f735",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/1105f57c9c435ba5fe8102106e331709662fe532.png",
+      "small": "course/en/assets/1105f57c9c435ba5fe8102106e331709662fe532.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "<p>There are other benefits to an empty homes officer’s work besides bringing homes back into use and arrears recovered. Data cleansing, which we look at in more detail in the next module, is of value to council tax, both in a monetary sense but also from a point of view of having the most accurate information as possible.</p><p>Other departments also gain by having an empty homes officer. For example, if there is a particularly bad empty home that the council has to deal with, there will possible be emergency repairs that have to be carried out and then recharged to the owner.</p><p>This would then require legal costs and many hours of staff time to try and trace the owner, so that the&nbsp;costs could be recovered. In that time, the property will continue to deteriorate and further repairs may need to be carried out, further increasing the costs (as an aside, this imaginary property would probably also be racking up a fair amount of council tax debt).</p>",
+    "_id": "5d9e59877fdf8ce21013f742",
+    "_parentId": "5d9e59617fdf8ce21013f73f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "The time-consuming jobs",
+    "displayTitle": "The time-consuming jobs",
+    "body": "<p>Select through the information in the slides:</p>",
+    "_id": "5d9e5c1e7fdf8ce21013f749",
+    "_parentId": "5d9e5be77fdf8ce21013f746",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Investigation ",
+        "body": "<p>An empty homes officer carries out most of the time-consuming jobs such as investigation as part of their job, so there is no need for other departments to spend hours investigating and tracing the owner when their time could be spent more productively.</p>",
+        "_graphic": {
+          "src": "course/en/assets/d2fdb984a641b1d3aabe410e75baab97e48e8946.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "strapline..."
+      },
+      {
+        "title": "Working with the owner",
+        "body": "<p>The empty homes officer seeks to work with the owner rather than against them, which, in itself, produces far better results than enforcement on its own ever could. And looking at the bigger picture, empty homes officers proactively seek out owners to work with, and stop the property ever becoming so bad in the first place.</p>",
+        "_graphic": {
+          "src": "course/en/assets/516d57dc918b696ed633ef896cb5f5652be87ba4.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "strapline..."
+      },
+      {
+        "title": "Providing a cure",
+        "body": "<p>As well as providing a cure to existing long term empty homes, empty homes officers also act to prevent properties ever becoming such a difficulty in future.</p><p>In many of the worst cases that we have seen, the issues which caused the home to become empty in the first instance were not insurmountable and an empty homes officer in place at the time would have been able to help out.&nbsp;</p><p>Sadly, there wasn’t an officer there at the time and a decade or so later, these properties have cost the local authority tens of thousands of pounds</p>",
+        "_graphic": {
+          "src": "course/en/assets/d6ebb78ff0ce8584f920e9c63b2808f3de0a0a4d.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "strapline..."
+      }
+    ]
+  },
+  {
+    "_component": "hotgrid",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Benefits for the local community ",
+    "displayTitle": "Benefits for the local community ",
+    "body": "",
+    "_id": "5d9e5f387fdf8ce21013f750",
+    "_parentId": "5d9e5f017fdf8ce21013f74d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Select the images below for more information:",
+    "_columns": 3,
+    "_items": [
+      {
+        "title": "Removal of blight properties",
+        "body": "<p><span style=\"color:#FFFFFF\">The first and most obvious benefit of empty homes work for a community is the removal of blight properties. These properties can bring down an area, lowering local prices and reducing people’s pride in their local community.</span></p>",
+        "_graphic": {
+          "src": "course/en/assets/dc1085f578595937657d6ba37d90591619ad2fb7.png",
+          "srcHover": "course/en/assets/dc1085f578595937657d6ba37d90591619ad2fb7.png",
+          "srcVisited": "course/en/assets/dc1085f578595937657d6ba37d90591619ad2fb7.png",
+          "alt": "",
+          "title": "Removal of blight properties"
+        },
+        "_itemGraphic": {
+          "src": "course/en/assets/dc1085f578595937657d6ba37d90591619ad2fb7.png",
+          "alt": ""
+        }
+      },
+      {
+        "title": "Knock-on effect",
+        "body": "<p><span style=\"color:#FFFFFF\">This has a knock-on effect because people may then stop to look after their property as well, which makes the area less desirable and could lead to more empty homes.</span></p>",
+        "_graphic": {
+          "src": "course/en/assets/3731d71ba10be11b1dce9d94156eb3668985951a.png",
+          "srcHover": "course/en/assets/3731d71ba10be11b1dce9d94156eb3668985951a.png",
+          "srcVisited": "course/en/assets/3731d71ba10be11b1dce9d94156eb3668985951a.png",
+          "alt": "",
+          "title": "Knock-on effect"
+        },
+        "_itemGraphic": {
+          "src": "course/en/assets/3731d71ba10be11b1dce9d94156eb3668985951a.png",
+          "alt": ""
+        }
+      },
+      {
+        "title": "As time goes by",
+        "body": "<p><span style=\"color:#FFFFFF\">If prices start to fall in an area this can also lead to more empty homes, as negative equity to mean people are unable to sell or let their properties and may not want to live in that area. As time goes by, more and more empty homes start to appear as properties fall into disrepair and tenants move out the area.</span></p>",
+        "_graphic": {
+          "src": "course/en/assets/db56ffe1b00ea7fcbd0e90dd6c31cf9b4bb4b7f8.png",
+          "srcHover": "course/en/assets/db56ffe1b00ea7fcbd0e90dd6c31cf9b4bb4b7f8.png",
+          "srcVisited": "course/en/assets/db56ffe1b00ea7fcbd0e90dd6c31cf9b4bb4b7f8.png",
+          "alt": "",
+          "title": "As time goes by"
+        },
+        "_itemGraphic": {
+          "src": "course/en/assets/db56ffe1b00ea7fcbd0e90dd6c31cf9b4bb4b7f8.png",
+          "alt": ""
+        }
+      }
+    ]
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "<p>There is also the issue of community spend, estimated in our Value Tool&nbsp;to sit at around £8,314 per year. That might not sound a lot, but effectively 100 empty homes in an area would be sucking £831,400 out of the local economy.</p><p><span style=\"color:#002b52\"><strong>Note:</strong></span> you can view a copy of our Value Tool in the resources area.</p>",
+    "_id": "5d9e60287fdf8ce21013f760",
+    "_parentId": "5d9e60067fdf8ce21013f75d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "hotgraphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "What do Empty Homes Officers typically do?",
+    "displayTitle": "What do Empty Homes Officers typically do?",
+    "body": "<p>Select the hotspots on the image to reveal further information:</p>",
+    "_id": "5d9faa5a7fdf8ce21013f79a",
+    "_parentId": "5d9fa9e67fdf8ce21013f797",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "src": "course/en/assets/db3c1f06c9049438f1d7fd05860b00f99f6c81e6.png",
+      "alt": "",
+      "attribution": ""
+    },
+    "mobileBody": "",
+    "mobileInstruction": "",
+    "_hidePagination": false,
+    "_canCycleThroughPagination": false,
+    "_useGraphicsAsPins": false,
+    "_items": [
+      {
+        "title": "Creating a database",
+        "body": "<p>Using the data provided by Council Tax and other sources (such as from the owners themselves and referrers), an Empty Homes Officer will often start with creating a database.</p><p>This is the starting block from which empty homes work can stem from. As mentioned above, this will help to establish priorities so that a targeted approach can be taken.</p>",
+        "strapline": "strapline...",
+        "_graphic": {
+          "src": "course/en/assets/440d5fa82da0cee1ece63852513807a2f3e303f4.jpg",
+          "alt": "",
+          "attribution": "",
+          "title": "",
+          "_classes": ""
+        },
+        "_classes": "",
+        "_left": 47,
+        "_top": 21
+      },
+      {
+        "title": "Contacting owners",
+        "body": "<p>Once the data is in place and priorities established, you will likely start contacting owners. This can be done in a number of different ways.</p><p>It can be done in batches, or on an individual basis. It can be in the form of a mailout or calls to owners. It may be electronic, using emails or texts.</p>",
+        "strapline": "strapline...",
+        "_graphic": {
+          "src": "course/en/assets/440d5fa82da0cee1ece63852513807a2f3e303f4.jpg",
+          "alt": "",
+          "attribution": "",
+          "title": "",
+          "_classes": ""
+        },
+        "_classes": "",
+        "_left": 47,
+        "_top": 36
+      },
+      {
+        "title": "Start small",
+        "body": "<p>In most cases, new Empty Homes Officers tend to start small, so as not to be overwhelmed by large numbers of responses.</p><p>There is no definitive guide as to what an ideal batch number is, as that will depend on whether you are full-time or not, and also how much time you elect to spend responding to each owner.</p>",
+        "strapline": "strapline...",
+        "_graphic": {
+          "src": "course/en/assets/440d5fa82da0cee1ece63852513807a2f3e303f4.jpg",
+          "alt": "",
+          "attribution": "",
+          "title": "",
+          "_classes": ""
+        },
+        "_classes": "",
+        "_left": 47,
+        "_top": 51
+      },
+      {
+        "title": "Response rate",
+        "body": "<p>Statistics provided by Empty Homes Officers throughout the years suggest that a response rate of around a third (33%) is typical.</p><p>Therefore, if you send 60 letters/emails today, you can expect at least 20 of those owners to respond over the course of several weeks.</p>",
+        "strapline": "strapline...",
+        "_graphic": {
+          "src": "course/en/assets/440d5fa82da0cee1ece63852513807a2f3e303f4.jpg",
+          "alt": "",
+          "attribution": "",
+          "title": "",
+          "_classes": ""
+        },
+        "_classes": "",
+        "_left": 47,
+        "_top": 66
+      }
+    ]
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5d9fac427fdf8ce21013f7a4",
+    "_parentId": "5d9fabf27fdf8ce21013f7a1",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/d23c89663d04f5a3c68c0f00e6ad0cacbe233d4c.png",
+      "small": "course/en/assets/d23c89663d04f5a3c68c0f00e6ad0cacbe233d4c.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Engaging in casework",
+    "displayTitle": "Engaging in casework",
+    "body": "<p>Once owners have responded, you will have to engage in casework with them. This&nbsp;basically involves one of two things.&nbsp;Either the property isn’t empty at all, and you simply have to correct the information held by council tax and your own database accordingly.&nbsp;Or it is empty and you have to work with the owner to bring it back into use.</p><p><span style=\"color:#002b52\"><strong>Note:</strong></span> this is covered more fully in the <em>‘Database and Casework’</em> handout, which is available in resources.</p>",
+    "_id": "5d9fac487fdf8ce21013f7a5",
+    "_parentId": "5d9fabf27fdf8ce21013f7a1",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "What are the outcomes?",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5d9fb07c7fdf8ce21013f7ab",
+    "_parentId": "5d9fb0507fdf8ce21013f7a8",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/d211d12200f7866c86354f0228e0e5c5b8c31442.png",
+      "small": "course/en/assets/d211d12200f7866c86354f0228e0e5c5b8c31442.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "What are the outcomes?",
+    "displayTitle": "What are the outcomes?",
+    "body": "<p>Through information provided by our annual surveys, where Empty Homes Officers tell us how their properties are back into use, we can see that typically most properties are either sold on the open market, let privately or owner-occupied.</p><p>A smaller number are bought by social landlords and added to their stock or are leased from owners by social landlords. Some are even brought back into use as holiday homes, which may not be ideal but could still remove the blight of an empty property from the community.</p><p>In the case of owner occupation or letting out, there is no conflict between a resolution for the owner and for the empty property.</p><p>However, in the case of private sale, there is a slight&nbsp;discrepancy. This is because it is possible to sell a house and for it to remain empty. The sale represents a solution for the owner, because they no longer have the problem of an empty home to deal with. However, the property is not back into use until the new owner has occupied (or indeed, let it out).</p><p>Some officers will close the case when the property is sold, because they have done their job in assisting the owner. Others will wait for the property to become occupied before closing the case.</p>",
+    "_id": "5d9fb0817fdf8ce21013f7ac",
+    "_parentId": "5d9fb0507fdf8ce21013f7a8",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Differentiating between outcomes",
+    "displayTitle": "Differentiating between outcomes",
+    "body": "<p>Rather than deciding on a particular approach and sticking to it, it would probably be worthwhile to differentiate between the two outcomes.&nbsp;</p><p>One is a solution for an owner, the other is a property brought back into use. If you have helped the new owner with measures such as VAT discounts, builder’s merchants discounts or direct funding, you will have helped two owners but only one property has come back into use.</p><p>If you were to class both instances as a property back into use, you would be double-counting. However, if you acknowledge that you have provided solutions for two owners, and one property has come back into use as a result, then you will have a more accurate picture of the work that you’ve done.</p>",
+    "_id": "5d9fb25c7fdf8ce21013f7b2",
+    "_parentId": "5d9fb2367fdf8ce21013f7af",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5d9fb2617fdf8ce21013f7b3",
+    "_parentId": "5d9fb2367fdf8ce21013f7af",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/9f6179f0554fefae039d32c9dc0f59f05f4b9480.png",
+      "small": "course/en/assets/9f6179f0554fefae039d32c9dc0f59f05f4b9480.png",
+      "attribution": ""
+    }
+  }
+]
