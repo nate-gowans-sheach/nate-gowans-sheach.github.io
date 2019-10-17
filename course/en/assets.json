@@ -214,11 +214,6 @@
     "description": "next_steps",
     "tags": []
   },
-  "a168b8e74233c47b4d6c7ea89ca8c5bf82fb4eba.mp4": {
-    "title": "SEHPM17202.mp4",
-    "description": "Module One Talking Head",
-    "tags": []
-  },
   "445a153d9c821e74e27ce7741dcacd9c26a31ee4.png": {
     "title": "empty-home-exterior.png",
     "description": "empty home exterior",
@@ -272,6 +267,11 @@
   "d74de4487e80d851b72c4830a8e8804ac09b4171.png": {
     "title": "map3_1.png",
     "description": "50 -52 Main Street / 2 Cross Street Campbletown",
+    "tags": []
+  },
+  "0a855d87c20211b6aef6c657b184f5f1f88e8646.mp4": {
+    "title": "SEHPM17202_1.mp4",
+    "description": "Video Test",
     "tags": []
   }
 }
