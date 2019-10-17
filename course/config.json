@@ -4,7 +4,7 @@
   "_questionWeight": 1,
   "_generateSourcemap": false,
   "_forceRouteLocking": true,
-  "_id": "5d812c307fdf8ce21013f654",
+  "_id": "5d9fbb567fdf8ce21013f8c6",
   "_logging": {
     "_isEnabled": true,
     "_level": "debug",
@@ -22,7 +22,7 @@
     "_hideEasing": "easeInQuart",
     "_duration": 400
   },
-  "_courseId": "5d812c307fdf8ce21013f653",
+  "_courseId": "5d9fbb557fdf8ce21013f880",
   "__v": 0,
   "_inview": {
     "_allowScrollOver": true
@@ -87,9 +87,9 @@
       "adapt-contrib-narrative",
       "adapt-contrib-graphic",
       "adapt-contrib-hotgraphic",
-      "adapt-hotgrid",
       "adapt-contrib-flipcard",
       "adapt-contrib-accordion",
+      "adapt-hotgrid",
       "adapt-block-background",
       "adapt-close",
       "adapt-contrib-assessment",

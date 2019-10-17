@@ -1,9 +1,9 @@
 {
-  "title": "SEHP demo course",
-  "displayTitle": "SEHP demo course",
+  "title": "SEHP Module One Alternative Map",
+  "displayTitle": "SEHP Module One",
   "body": "",
   "description": "Demo course for SEHP theme",
-  "_latestTrackingId": 27,
+  "_latestTrackingId": 26,
   "_buttons": {
     "_submit": {
       "buttonText": "Submit",
@@ -137,7 +137,7 @@
     "_isEnabled": true,
     "_startIds": [
       {
-        "_id": "5d812c307fdf8ce21013f655",
+        "_id": "5d9fbb557fdf8ce21013f881",
         "_skipIfComplete": false,
         "_className": ""
       }

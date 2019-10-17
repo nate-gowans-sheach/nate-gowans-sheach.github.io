@@ -13,7 +13,7 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5d812c307fdf8ce21013f655",
+    "_id": "5d9fbb557fdf8ce21013f881",
     "_parentId": "course",
     "_type": "page",
     "_graphic": {
@@ -93,7 +93,7 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5d812c307fdf8ce21013f656",
+    "_id": "5d9fbb557fdf8ce21013f882",
     "_parentId": "course",
     "_type": "page",
     "_graphic": {
@@ -173,12 +173,12 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5d812c307fdf8ce21013f658",
+    "_id": "5d9fbb557fdf8ce21013f883",
     "_parentId": "course",
     "_type": "page",
     "_graphic": {
       "alt": "Placeholder graphic.",
-      "src": "course/en/assets/d23c89663d04f5a3c68c0f00e6ad0cacbe233d4c.png"
+      "src": "course/en/assets/3672087495518c0fd82ae378ca710ca49fa6670e.png"
     },
     "_onScreen": {
       "_isEnabled": false,
@@ -236,7 +236,7 @@
       "_isActive": true
     },
     "_minimap": {
-      "_path": "course/en/assets/602baeb20238da9013b6d1fdbf4972fc746990c1.png"
+      "_path": "course/en/assets/1fcfcb833495dc9918ee1c048ccd417233445367.png"
     }
   },
   {
@@ -253,12 +253,12 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5d812c307fdf8ce21013f65b",
+    "_id": "5d9fbb557fdf8ce21013f884",
     "_parentId": "course",
     "_type": "page",
     "_graphic": {
       "alt": "Placeholder graphic.",
-      "src": "course/en/assets/d23c89663d04f5a3c68c0f00e6ad0cacbe233d4c.png"
+      "src": "course/en/assets/146568239ec1eaa36c035e14f9eb4bb151d1e6b4.png"
     },
     "_onScreen": {
       "_isEnabled": false,
