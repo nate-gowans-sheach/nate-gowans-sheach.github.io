@@ -24,11 +24,6 @@
     "description": "co-15.png",
     "tags": []
   },
-  "526af98522cd672c751527ae9ea9b24e79854c39.jpg": {
-    "title": "map_image_size_1@3x-100.jpg",
-    "description": "map_image_size_1@3x-100.jpg",
-    "tags": []
-  },
   "07b7dc8a9474d766df7406be2f6456f431d60379.vtt": {
     "title": "c-40.vtt",
     "description": "c-40.vtt",
@@ -67,11 +62,6 @@
   "a447c07a10dd2a7adf9abb10a08cf9203b1bb753.jpg": {
     "title": "SHELT_HG",
     "description": "SHELT_HG",
-    "tags": []
-  },
-  "74d63ab7aa55d5bef7e0143a06ed0a940f505296.jpg": {
-    "title": "Nicola_poster",
-    "description": "Nicola_poster",
     "tags": []
   },
   "71b823b475bb262fd754b1ff6a3c6e124519cf1b.jpg": {
@@ -154,16 +144,6 @@
     "description": "hospots1_6",
     "tags": []
   },
-  "dc1085f578595937657d6ba37d90591619ad2fb7.png": {
-    "title": "H2_1.png",
-    "description": "H2_1",
-    "tags": []
-  },
-  "db56ffe1b00ea7fcbd0e90dd6c31cf9b4bb4b7f8.png": {
-    "title": "H2_3.png",
-    "description": "H2_3",
-    "tags": []
-  },
   "8d6234c151a1f9ed41ed71d9a2726ab2209c79b0.png": {
     "title": "casework.png",
     "description": "casework",
@@ -177,11 +157,6 @@
   "bb4ce83ffd040ce99bb0c14000ebf6e988a08e05.png": {
     "title": "differentiate.png",
     "description": "differentiate",
-    "tags": []
-  },
-  "1fcfcb833495dc9918ee1c048ccd417233445367.png": {
-    "title": "map_alt.png",
-    "description": "map_alt",
     "tags": []
   },
   "dc0bf37fb5d897b01f972507c8412bd96c337ea0.png": {
@@ -224,11 +199,6 @@
     "description": "why bring them back into use small",
     "tags": []
   },
-  "fecfa23e66c1a28128be274c7f092d493ab8a692.png": {
-    "title": "graphs.png",
-    "description": "graphs of council tax",
-    "tags": []
-  },
   "c36978ac015b0da979de4ae3ee23e7d701d08b93.png": {
     "title": "Fixed-home.png",
     "description": "Fixed home",
@@ -254,9 +224,9 @@
     "description": "responses",
     "tags": []
   },
-  "8e756bb06ca279718b9e9f0800fff1374fb42a4d.png": {
-    "title": "H2_2.png",
-    "description": "Neighbours",
+  "8818630a861644b77cc4914d7ea391b04f7fed8a.png": {
+    "title": "map3_1.png",
+    "description": "50-52 Main Street / 2 Cross Street Campbletown",
     "tags": []
   },
   "9ba10a770a069ebd1c6e7064d1db60c53a1099a5.png": {
@@ -272,6 +242,46 @@
   "0a855d87c20211b6aef6c657b184f5f1f88e8646.mp4": {
     "title": "SEHPM17202_1.mp4",
     "description": "Video Test",
+    "tags": []
+  },
+  "b17af5eedf3154c0833066e2376d81a55a48fcee.png": {
+    "title": "illustrated Scotland.png",
+    "description": "illustrated Scotland",
+    "tags": []
+  },
+  "2e20cd4623be30e6a13077023d30fb9c1e0b2606.png": {
+    "title": "council tax.png",
+    "description": "council tax",
+    "tags": []
+  },
+  "5b0fb5cc06627142ee61f647bbd7c8936ceeadb6.png": {
+    "title": "assessment.png",
+    "description": "Assessment image represented by a pencil",
+    "tags": []
+  },
+  "7de1a1621e1af548c1a2e4ed1d6f3600ffa35b2f.png": {
+    "title": "evaluation.png",
+    "description": "Evaluation image represented by a checklist",
+    "tags": []
+  },
+  "a8d61f76d1d9360e53df1aa2625c74cd69b90bb9.png": {
+    "title": "H2_1@.png",
+    "description": "Removal of blight properties",
+    "tags": []
+  },
+  "dd7357b1e66864d370d623cefdec8f3eb84e4d7e.png": {
+    "title": "H2_2.png",
+    "description": "Knock-on effect",
+    "tags": []
+  },
+  "881a1f2869831150149be0668d65474246e80ad3.png": {
+    "title": "H2_3.png",
+    "description": "As time goes by, clock",
+    "tags": []
+  },
+  "1871bf74ae6092855cd13afcfe0a696a17fea143.png": {
+    "title": "M1_Poster.png",
+    "description": "Title image 'An introduction to empty homes work'",
     "tags": []
   }
 }

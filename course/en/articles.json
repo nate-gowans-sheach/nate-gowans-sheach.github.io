@@ -9,8 +9,78 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5d9fbb557fdf8ce21013f885",
-    "_parentId": "5d9fbb557fdf8ce21013f881",
+    "_id": "5dbf09d9c0b9cda5babafa0e",
+    "_parentId": "5dbf09d9c0b9cda5babafa0a",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_attempts": -1,
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": -1
+      },
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_questions": {
+        "_resetType": "soft",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      }
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_onChildren": false,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": false,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    }
+  },
+  {
+    "title": "a-10",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5dbf09d9c0b9cda5babafa0f",
+    "_parentId": "5dbf09d9c0b9cda5babafa0b",
     "_type": "article"
   },
   {
@@ -23,22 +93,8 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5d9fbb557fdf8ce21013f886",
-    "_parentId": "5d9fbb557fdf8ce21013f882",
-    "_type": "article"
-  },
-  {
-    "title": "a-10",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_id": "5d9fbb557fdf8ce21013f887",
-    "_parentId": "5d9fbb557fdf8ce21013f883",
+    "_id": "5dbf09d9c0b9cda5babafa10",
+    "_parentId": "5dbf09d9c0b9cda5babafa0c",
     "_type": "article"
   },
   {
@@ -51,8 +107,8 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5d9fbb557fdf8ce21013f888",
-    "_parentId": "5d9fbb557fdf8ce21013f884",
+    "_id": "5dbf09d9c0b9cda5babafa11",
+    "_parentId": "5dbf09d9c0b9cda5babafa0d",
     "_type": "article"
   }
 ]

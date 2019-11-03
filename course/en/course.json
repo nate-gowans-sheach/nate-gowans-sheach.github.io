@@ -1,9 +1,9 @@
 {
-  "title": "SEHP Module One Alternative Map",
-  "displayTitle": "SEHP Module One",
+  "title": "An introduction to empty homes work rework",
+  "displayTitle": "Empty homes database and casework rework",
   "body": "",
-  "description": "Demo course for SEHP theme",
-  "_latestTrackingId": 26,
+  "description": "Empty homes training module two",
+  "_latestTrackingId": 27,
   "_buttons": {
     "_submit": {
       "buttonText": "Submit",
@@ -137,7 +137,7 @@
     "_isEnabled": true,
     "_startIds": [
       {
-        "_id": "5d9fbb557fdf8ce21013f881",
+        "_id": "5dbf09d9c0b9cda5babafa0a",
         "_skipIfComplete": false,
         "_className": ""
       }
@@ -172,7 +172,7 @@
   },
   "_pageLevelProgress": {
     "_isEnabled": true,
-    "_showPageCompletion": false
+    "_showPageCompletion": true
   },
   "_resources": {
     "_isEnabled": true,
@@ -214,15 +214,15 @@
         "title": "Scottish Empty Homes Partnership",
         "filename": "SEHP Website",
         "description": "SEHP Website",
-        "_link": "https://scotland.shelter.org.uk/empty_homes"
+        "_link": "https://emptyhomespartnership.scot/"
       },
       {
         "_type": "link",
         "_forceDownload": false,
-        "title": "Empty Homes Advice Service",
-        "filename": "Website contact details",
-        "description": "Empty Homes Advice Service",
-        "_link": "https://scotland.shelter.org.uk/empty_homes/empty_homes_advice_service"
+        "title": "Shelter Scotland",
+        "filename": "Shelter Scotland",
+        "description": "Shelter Scotland",
+        "_link": "https://scotland.shelter.org.uk"
       }
     ]
   },

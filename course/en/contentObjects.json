@@ -13,7 +13,7 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5d9fbb557fdf8ce21013f881",
+    "_id": "5dbf09d9c0b9cda5babafa0a",
     "_parentId": "course",
     "_type": "page",
     "_graphic": {
@@ -80,8 +80,8 @@
     }
   },
   {
-    "title": "An introduction to empty homes",
-    "displayTitle": "<div>An introduction</div><div>to empty homes</div>",
+    "title": "An introduction to empty homes work",
+    "displayTitle": "<div>An introduction to</div><div>empty homes work</div>",
     "body": "",
     "_classes": "",
     "pageBody": "",
@@ -93,7 +93,7 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5d9fbb557fdf8ce21013f882",
+    "_id": "5dbf09d9c0b9cda5babafa0b",
     "_parentId": "course",
     "_type": "page",
     "_graphic": {
@@ -160,8 +160,8 @@
     }
   },
   {
-    "title": "Visual outcomes (case studies)",
-    "displayTitle": "<div>Visual outcomes</div><div>(case studies)</div>",
+    "title": "Empty homes work outcomes",
+    "displayTitle": "<div>Empty homes</div><div>work outcomes</div>",
     "body": "",
     "_classes": "case-studies",
     "pageBody": "",
@@ -173,7 +173,7 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5d9fbb557fdf8ce21013f883",
+    "_id": "5dbf09d9c0b9cda5babafa0c",
     "_parentId": "course",
     "_type": "page",
     "_graphic": {
@@ -236,7 +236,7 @@
       "_isActive": true
     },
     "_minimap": {
-      "_path": "course/en/assets/1fcfcb833495dc9918ee1c048ccd417233445367.png"
+      "_path": "course/en/assets/b17af5eedf3154c0833066e2376d81a55a48fcee.png"
     }
   },
   {
@@ -253,7 +253,7 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5d9fbb557fdf8ce21013f884",
+    "_id": "5dbf09d9c0b9cda5babafa0d",
     "_parentId": "course",
     "_type": "page",
     "_graphic": {

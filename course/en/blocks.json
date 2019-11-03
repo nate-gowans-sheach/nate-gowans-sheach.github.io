@@ -10,8 +10,8 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5d9fbb557fdf8ce21013f889",
-    "_parentId": "5d9fbb557fdf8ce21013f885",
+    "_id": "5dbf09d9c0b9cda5babafa12",
+    "_parentId": "5dbf09d9c0b9cda5babafa0e",
     "_type": "block"
   },
   {
@@ -25,8 +25,8 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5d9fbb557fdf8ce21013f88a",
-    "_parentId": "5d9fbb557fdf8ce21013f886",
+    "_id": "5dbf09d9c0b9cda5babafa13",
+    "_parentId": "5dbf09d9c0b9cda5babafa0f",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -86,8 +86,8 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5d9fbb557fdf8ce21013f88e",
-    "_parentId": "5d9fbb557fdf8ce21013f887",
+    "_id": "5dbf09d9c0b9cda5babafa17",
+    "_parentId": "5dbf09d9c0b9cda5babafa10",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -126,14 +126,14 @@
       "mobileBannerHeight": 150,
       "bannerHeight": 200,
       "backgroundSize": "contain",
-      "backgroundPosition": null,
+      "backgroundPosition": "left top",
       "backgroundRepeat": "no-repeat",
       "backgroundColor": "transparent"
     },
     "_minimap": {
       "_isEnabled": true,
-      "_top": 70,
-      "_left": 70
+      "_top": 24,
+      "_left": 21
     }
   },
   {
@@ -147,8 +147,8 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5d9fbb557fdf8ce21013f88f",
-    "_parentId": "5d9fbb557fdf8ce21013f887",
+    "_id": "5dbf09d9c0b9cda5babafa18",
+    "_parentId": "5dbf09d9c0b9cda5babafa10",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -193,8 +193,8 @@
     },
     "_minimap": {
       "_isEnabled": true,
-      "_top": 30,
-      "_left": 50
+      "_top": 41,
+      "_left": 42
     }
   },
   {
@@ -208,8 +208,8 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5d9fbb557fdf8ce21013f892",
-    "_parentId": "5d9fbb557fdf8ce21013f888",
+    "_id": "5dbf09d9c0b9cda5babafa19",
+    "_parentId": "5dbf09d9c0b9cda5babafa11",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -269,8 +269,8 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5d9fbb557fdf8ce21013f895",
-    "_parentId": "5d9fbb557fdf8ce21013f886",
+    "_id": "5dbf09d9c0b9cda5babafa1b",
+    "_parentId": "5dbf09d9c0b9cda5babafa0f",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -330,8 +330,8 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5d9fbb557fdf8ce21013f893",
-    "_parentId": "5d9fbb557fdf8ce21013f888",
+    "_id": "5dbf09d9c0b9cda5babafa1a",
+    "_parentId": "5dbf09d9c0b9cda5babafa11",
     "_type": "block"
   },
   {
@@ -345,8 +345,8 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5d9fbb557fdf8ce21013f896",
-    "_parentId": "5d9fbb557fdf8ce21013f886",
+    "_id": "5dbf09d9c0b9cda5babafa1c",
+    "_parentId": "5dbf09d9c0b9cda5babafa0f",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -406,8 +406,8 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5da8b2487fdf8ce21013f998",
-    "_parentId": "5d9fbb557fdf8ce21013f887",
+    "_id": "5dbf09d9c0b9cda5babafa2a",
+    "_parentId": "5dbf09d9c0b9cda5babafa10",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -444,16 +444,16 @@
       "mobileSrc": "course/en/assets/d74de4487e80d851b72c4830a8e8804ac09b4171.png",
       "src": "course/en/assets/d74de4487e80d851b72c4830a8e8804ac09b4171.png",
       "mobileBannerHeight": 150,
-      "bannerHeight": 300,
-      "backgroundSize": "cover",
-      "backgroundPosition": "center center",
-      "backgroundRepeat": "repeat",
+      "bannerHeight": 200,
+      "backgroundSize": "contain",
+      "backgroundPosition": "left top",
+      "backgroundRepeat": "no-repeat",
       "backgroundColor": "transparent"
     },
     "_minimap": {
       "_isEnabled": true,
-      "_top": 50,
-      "_left": 50
+      "_top": 64,
+      "_left": 37
     }
   },
   {
@@ -467,8 +467,8 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5d9fbb557fdf8ce21013f88b",
-    "_parentId": "5d9fbb557fdf8ce21013f886",
+    "_id": "5dbf09d9c0b9cda5babafa14",
+    "_parentId": "5dbf09d9c0b9cda5babafa0f",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -519,7 +519,7 @@
   },
   {
     "title": "b-105",
-    "displayTitle": "",
+    "displayTitle": "b-105",
     "body": "",
     "_classes": "",
     "_trackingId": 11,
@@ -528,8 +528,8 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5d9fbb557fdf8ce21013f897",
-    "_parentId": "5d9fbb557fdf8ce21013f886",
+    "_id": "5dbf1694c0b9cda5babafad8",
+    "_parentId": "5dbf09d9c0b9cda5babafa10",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -563,19 +563,19 @@
       }
     },
     "_blockBackground": {
-      "mobileSrc": "course/en/assets/440d5fa82da0cee1ece63852513807a2f3e303f4.jpg",
-      "src": "course/en/assets/440d5fa82da0cee1ece63852513807a2f3e303f4.jpg",
+      "mobileSrc": "course/en/assets/8818630a861644b77cc4914d7ea391b04f7fed8a.png",
+      "src": "course/en/assets/8818630a861644b77cc4914d7ea391b04f7fed8a.png",
       "mobileBannerHeight": 150,
-      "bannerHeight": 300,
-      "backgroundSize": "cover",
-      "backgroundPosition": "center center",
-      "backgroundRepeat": "repeat",
+      "bannerHeight": 200,
+      "backgroundSize": "contain",
+      "backgroundPosition": "left top",
+      "backgroundRepeat": "no-repeat",
       "backgroundColor": "transparent"
     },
     "_minimap": {
       "_isEnabled": true,
-      "_top": 50,
-      "_left": 50
+      "_top": 76,
+      "_left": 30
     }
   },
   {
@@ -589,8 +589,8 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5d9fbb557fdf8ce21013f88c",
-    "_parentId": "5d9fbb557fdf8ce21013f886",
+    "_id": "5dbf09d9c0b9cda5babafa1d",
+    "_parentId": "5dbf09d9c0b9cda5babafa0f",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -650,8 +650,8 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5d9fbb557fdf8ce21013f898",
-    "_parentId": "5d9fbb557fdf8ce21013f886",
+    "_id": "5dbf09d9c0b9cda5babafa15",
+    "_parentId": "5dbf09d9c0b9cda5babafa0f",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -704,15 +704,76 @@
     "title": "b-105",
     "displayTitle": "",
     "body": "",
-    "_classes": "blue",
+    "_classes": "",
     "_trackingId": 14,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5d9fbb557fdf8ce21013f88d",
-    "_parentId": "5d9fbb557fdf8ce21013f886",
+    "_id": "5dbf0ef8c0b9cda5babafad2",
+    "_parentId": "5dbf09d9c0b9cda5babafa0f",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": true,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_blockBackground": {
+      "mobileSrc": "course/en/assets/440d5fa82da0cee1ece63852513807a2f3e303f4.jpg",
+      "src": "course/en/assets/440d5fa82da0cee1ece63852513807a2f3e303f4.jpg",
+      "mobileBannerHeight": 150,
+      "bannerHeight": 300,
+      "backgroundSize": "cover",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundColor": "transparent"
+    },
+    "_minimap": {
+      "_isEnabled": true,
+      "_top": 50,
+      "_left": 50
+    }
+  },
+  {
+    "title": "b-105",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "blue",
+    "_trackingId": 15,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5dbf09d9c0b9cda5babafa16",
+    "_parentId": "5dbf09d9c0b9cda5babafa0f",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -766,14 +827,14 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 15,
+    "_trackingId": 16,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5d9fbb557fdf8ce21013f899",
-    "_parentId": "5d9fbb557fdf8ce21013f886",
+    "_id": "5dbf09d9c0b9cda5babafa1e",
+    "_parentId": "5dbf09d9c0b9cda5babafa0f",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -827,14 +888,14 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 16,
+    "_trackingId": 17,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5da8554b7fdf8ce21013f971",
-    "_parentId": "5d9fbb557fdf8ce21013f886",
+    "_id": "5dbf09d9c0b9cda5babafa29",
+    "_parentId": "5dbf09d9c0b9cda5babafa0f",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -888,75 +949,14 @@
     "displayTitle": "",
     "body": "",
     "_classes": "blue",
-    "_trackingId": 17,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_id": "5d9fbb557fdf8ce21013f89a",
-    "_parentId": "5d9fbb557fdf8ce21013f886",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": true,
-        "_className": "",
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_blockBackground": {
-      "mobileSrc": "course/en/assets/440d5fa82da0cee1ece63852513807a2f3e303f4.jpg",
-      "src": "course/en/assets/440d5fa82da0cee1ece63852513807a2f3e303f4.jpg",
-      "mobileBannerHeight": 150,
-      "bannerHeight": 300,
-      "backgroundSize": "cover",
-      "backgroundPosition": "center center",
-      "backgroundRepeat": "repeat",
-      "backgroundColor": "transparent"
-    },
-    "_minimap": {
-      "_isEnabled": true,
-      "_top": 50,
-      "_left": 50
-    }
-  },
-  {
-    "title": "b-105",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
     "_trackingId": 18,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5d9fbb557fdf8ce21013f89b",
-    "_parentId": "5d9fbb557fdf8ce21013f886",
+    "_id": "5dbf09d9c0b9cda5babafa1f",
+    "_parentId": "5dbf09d9c0b9cda5babafa0f",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -1016,69 +1016,8 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5d9fbb557fdf8ce21013f89c",
-    "_parentId": "5d9fbb557fdf8ce21013f886",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": true,
-        "_className": "",
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_blockBackground": {
-      "mobileSrc": "course/en/assets/440d5fa82da0cee1ece63852513807a2f3e303f4.jpg",
-      "src": "course/en/assets/440d5fa82da0cee1ece63852513807a2f3e303f4.jpg",
-      "mobileBannerHeight": 150,
-      "bannerHeight": 300,
-      "backgroundSize": "cover",
-      "backgroundPosition": "center center",
-      "backgroundRepeat": "repeat",
-      "backgroundColor": "transparent"
-    },
-    "_minimap": {
-      "_isEnabled": true,
-      "_top": 50,
-      "_left": 50
-    }
-  },
-  {
-    "title": "b-105",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "blue",
-    "_trackingId": 20,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_id": "5d9fbb557fdf8ce21013f89d",
-    "_parentId": "5d9fbb557fdf8ce21013f886",
+    "_id": "5dbf09d9c0b9cda5babafa20",
+    "_parentId": "5dbf09d9c0b9cda5babafa0f",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -1132,14 +1071,75 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
+    "_trackingId": 20,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5dbf09d9c0b9cda5babafa21",
+    "_parentId": "5dbf09d9c0b9cda5babafa0f",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_blockBackground": {
+      "mobileSrc": "course/en/assets/440d5fa82da0cee1ece63852513807a2f3e303f4.jpg",
+      "src": "course/en/assets/440d5fa82da0cee1ece63852513807a2f3e303f4.jpg",
+      "mobileBannerHeight": 150,
+      "bannerHeight": 300,
+      "backgroundSize": "cover",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundColor": "transparent"
+    },
+    "_minimap": {
+      "_isEnabled": true,
+      "_top": 50,
+      "_left": 50
+    }
+  },
+  {
+    "title": "b-105",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "blue",
     "_trackingId": 21,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5d9fbb557fdf8ce21013f89e",
-    "_parentId": "5d9fbb557fdf8ce21013f886",
+    "_id": "5dbf09d9c0b9cda5babafa22",
+    "_parentId": "5dbf09d9c0b9cda5babafa0f",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -1199,8 +1199,69 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5d9fbb557fdf8ce21013f89f",
-    "_parentId": "5d9fbb557fdf8ce21013f886",
+    "_id": "5dbf09d9c0b9cda5babafa23",
+    "_parentId": "5dbf09d9c0b9cda5babafa0f",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_blockBackground": {
+      "mobileSrc": "course/en/assets/440d5fa82da0cee1ece63852513807a2f3e303f4.jpg",
+      "src": "course/en/assets/440d5fa82da0cee1ece63852513807a2f3e303f4.jpg",
+      "mobileBannerHeight": 150,
+      "bannerHeight": 300,
+      "backgroundSize": "cover",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundColor": "transparent"
+    },
+    "_minimap": {
+      "_isEnabled": true,
+      "_top": 50,
+      "_left": 50
+    }
+  },
+  {
+    "title": "b-105",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 23,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5dbf09d9c0b9cda5babafa24",
+    "_parentId": "5dbf09d9c0b9cda5babafa0f",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -1254,14 +1315,14 @@
     "displayTitle": "",
     "body": "",
     "_classes": "blue",
-    "_trackingId": 23,
+    "_trackingId": 24,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5d9fbb557fdf8ce21013f8a0",
-    "_parentId": "5d9fbb557fdf8ce21013f886",
+    "_id": "5dbf09d9c0b9cda5babafa25",
+    "_parentId": "5dbf09d9c0b9cda5babafa0f",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -1315,75 +1376,14 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 24,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_id": "5d9fbb557fdf8ce21013f8a1",
-    "_parentId": "5d9fbb557fdf8ce21013f886",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": true,
-        "_className": "",
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_blockBackground": {
-      "mobileSrc": "course/en/assets/440d5fa82da0cee1ece63852513807a2f3e303f4.jpg",
-      "src": "course/en/assets/440d5fa82da0cee1ece63852513807a2f3e303f4.jpg",
-      "mobileBannerHeight": 150,
-      "bannerHeight": 300,
-      "backgroundSize": "cover",
-      "backgroundPosition": "center center",
-      "backgroundRepeat": "repeat",
-      "backgroundColor": "transparent"
-    },
-    "_minimap": {
-      "_isEnabled": true,
-      "_top": 50,
-      "_left": 50
-    }
-  },
-  {
-    "title": "b-105",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
     "_trackingId": 25,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5d9fbb557fdf8ce21013f8a2",
-    "_parentId": "5d9fbb557fdf8ce21013f886",
+    "_id": "5dbf09d9c0b9cda5babafa26",
+    "_parentId": "5dbf09d9c0b9cda5babafa0f",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -1443,8 +1443,69 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5d9fbb557fdf8ce21013f8a3",
-    "_parentId": "5d9fbb557fdf8ce21013f886",
+    "_id": "5dbf09d9c0b9cda5babafa27",
+    "_parentId": "5dbf09d9c0b9cda5babafa0f",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_blockBackground": {
+      "mobileSrc": "course/en/assets/440d5fa82da0cee1ece63852513807a2f3e303f4.jpg",
+      "src": "course/en/assets/440d5fa82da0cee1ece63852513807a2f3e303f4.jpg",
+      "mobileBannerHeight": 150,
+      "bannerHeight": 300,
+      "backgroundSize": "cover",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundColor": "transparent"
+    },
+    "_minimap": {
+      "_isEnabled": true,
+      "_top": 50,
+      "_left": 50
+    }
+  },
+  {
+    "title": "b-105",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 27,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5dbf09d9c0b9cda5babafa28",
+    "_parentId": "5dbf09d9c0b9cda5babafa0f",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
