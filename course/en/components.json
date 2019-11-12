@@ -23,7 +23,7 @@
     },
     "instruction": "",
     "_media": {
-      "mp4": "course/en/assets/0a855d87c20211b6aef6c657b184f5f1f88e8646.mp4",
+      "mp4": "course/en/assets/3f4d8dd248d8af04062123e3dd05ec8d3b7889d5.mp4",
       "ogv": "",
       "webm": "",
       "mp3": "",
@@ -345,8 +345,8 @@
     "instruction": "",
     "_graphic": {
       "alt": "alt text",
-      "large": "course/en/assets/76edf20d5bf0dfeceda24c8fa8f7160a032a83ae.png",
-      "small": "course/en/assets/76edf20d5bf0dfeceda24c8fa8f7160a032a83ae.png",
+      "large": "course/en/assets/86fd66a12fd268298ce5d45c4fdbe4797437be61.png",
+      "small": "course/en/assets/86fd66a12fd268298ce5d45c4fdbe4797437be61.png",
       "attribution": ""
     }
   },
@@ -375,8 +375,8 @@
     "instruction": "",
     "_graphic": {
       "alt": "alt text",
-      "large": "course/en/assets/dc21c5c13941a1e4305cd9ea154e2285ba79ea57.png",
-      "small": "course/en/assets/dc21c5c13941a1e4305cd9ea154e2285ba79ea57.png",
+      "large": "course/en/assets/6cec2275f20dee170456186f0050fed8f9e44c84.png",
+      "small": "course/en/assets/6cec2275f20dee170456186f0050fed8f9e44c84.png",
       "attribution": ""
     }
   },
@@ -470,7 +470,12 @@
       },
       {
         "title": "Share",
-        "body": "This is display text 3.",
+        "body": "<p>Share that you have completed a module of the Scottish Empty Homes Partnership training with your followers and peers on <span style=\"color:#002b52\"><strong>Twitter</strong></span> or <span style=\"color:#002b52\"><strong>LinkedIn.</strong>&nbsp;</span></p><p style=\"text-align: center;\">Simply select <span style=\"color:#002b52\"><strong>'Share on Twitter'</strong></span> or <strong><span style=\"color:#002b52\">'Share on LinkedIn'</span></strong> to make a post.&nbsp;</p><p style=\"text-align: center;\"><a href=\"https://twitter.com/intent/tweet?text=I%20have%20just%20completed%20a%20module%20on%20the%20Scottish%20Empty%20Homes%20Partnership%20Training.%20You%20can%20register%20for%20Empty%20Homes%20training%20for%20free%20here%3A%20%20emptyhomespartnership.scot\">Share on Twitter</a></p><p style=\"text-align: center;\"><a href=\"https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A//emptyhomespartnership.scot/&amp;title=Share%20to%20LinkedIn&amp;summary=I%20have%20just%20completed%20a%20module%20on%20the%20Scottish%20Empty%20Homes%20Partnership%20Training.%20You%20can%20register%20for%20Empty%20Homes%20training%20for%20free%20too.&amp;source=\">Share on LinkedIn</a></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
         "_classes": ""
       }
     ],
@@ -1294,8 +1299,8 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/9ba10a770a069ebd1c6e7064d1db60c53a1099a5.png",
-      "small": "course/en/assets/9ba10a770a069ebd1c6e7064d1db60c53a1099a5.png",
+      "large": "course/en/assets/8cb936115ce658b12e2b19573062f63fdfd4cd7e.png",
+      "small": "course/en/assets/8cb936115ce658b12e2b19573062f63fdfd4cd7e.png",
       "attribution": ""
     }
   },
@@ -1348,8 +1353,8 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/9ba10a770a069ebd1c6e7064d1db60c53a1099a5.png",
-      "small": "course/en/assets/9ba10a770a069ebd1c6e7064d1db60c53a1099a5.png",
+      "large": "course/en/assets/2b115f3f9ed2375ee72648a669f6951cef138060.png",
+      "small": "course/en/assets/2b115f3f9ed2375ee72648a669f6951cef138060.png",
       "attribution": ""
     }
   }

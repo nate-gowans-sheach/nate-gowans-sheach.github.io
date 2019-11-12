@@ -74,11 +74,6 @@
     "description": "Empty Home Council Tax Liability Flowchart",
     "tags": []
   },
-  "769aec67002ee4c0c8f5ff3ea3c560b4a4a0d19a.pdf": {
-    "title": "Empty Homes Advice Flowchart.pdf",
-    "description": "Empty Homes Advice Flowchart",
-    "tags": []
-  },
   "8d14989d5f947a3c3bdf42f59085265e3d58fc03.png": {
     "title": "SliderOne",
     "description": "SliderOne",
@@ -159,26 +154,6 @@
     "description": "differentiate",
     "tags": []
   },
-  "dc0bf37fb5d897b01f972507c8412bd96c337ea0.png": {
-    "title": "Druim Garbh1.png",
-    "description": "Druim Garbh",
-    "tags": []
-  },
-  "76edf20d5bf0dfeceda24c8fa8f7160a032a83ae.png": {
-    "title": "Druim Garbh2.png",
-    "description": "Druim Garbh",
-    "tags": []
-  },
-  "dc21c5c13941a1e4305cd9ea154e2285ba79ea57.png": {
-    "title": "Perth2.png",
-    "description": "Perth",
-    "tags": []
-  },
-  "10b00aedf8e1f6260a6bc6dea974e4c81baa9b0a.png": {
-    "title": "Perth1.png",
-    "description": "Perth1",
-    "tags": []
-  },
   "3672087495518c0fd82ae378ca710ca49fa6670e.png": {
     "title": "visual_outcomes.png",
     "description": "visual_outcomes",
@@ -224,31 +199,6 @@
     "description": "responses",
     "tags": []
   },
-  "8818630a861644b77cc4914d7ea391b04f7fed8a.png": {
-    "title": "map3_1.png",
-    "description": "50-52 Main Street / 2 Cross Street Campbletown",
-    "tags": []
-  },
-  "9ba10a770a069ebd1c6e7064d1db60c53a1099a5.png": {
-    "title": "map3_2.png",
-    "description": "50 -52 Main Street / 2 Cross Street Campbletown",
-    "tags": []
-  },
-  "d74de4487e80d851b72c4830a8e8804ac09b4171.png": {
-    "title": "map3_1.png",
-    "description": "50 -52 Main Street / 2 Cross Street Campbletown",
-    "tags": []
-  },
-  "0a855d87c20211b6aef6c657b184f5f1f88e8646.mp4": {
-    "title": "SEHPM17202_1.mp4",
-    "description": "Video Test",
-    "tags": []
-  },
-  "b17af5eedf3154c0833066e2376d81a55a48fcee.png": {
-    "title": "illustrated Scotland.png",
-    "description": "illustrated Scotland",
-    "tags": []
-  },
   "2e20cd4623be30e6a13077023d30fb9c1e0b2606.png": {
     "title": "council tax.png",
     "description": "council tax",
@@ -282,6 +232,61 @@
   "1871bf74ae6092855cd13afcfe0a696a17fea143.png": {
     "title": "M1_Poster.png",
     "description": "Title image 'An introduction to empty homes work'",
+    "tags": []
+  },
+  "3f4d8dd248d8af04062123e3dd05ec8d3b7889d5.mp4": {
+    "title": "NicolaM1FINAL_1.mp4",
+    "description": "Introduction to Module one",
+    "tags": []
+  },
+  "b232860fd01094e89584119b2d5c2394e3cd756b.png": {
+    "title": "TryMap@2x.png",
+    "description": "Illustrated map of Scotland",
+    "tags": []
+  },
+  "d9cc56210ade50d00744a91a6dc47d6321faeb79.png": {
+    "title": "MAPBACKGROUND1@2x.png",
+    "description": "Image of houses in background",
+    "tags": []
+  },
+  "2b115f3f9ed2375ee72648a669f6951cef138060.png": {
+    "title": "TESTMAPFOREGROUND1@2x.png",
+    "description": "Image of house and matchmaker icon",
+    "tags": []
+  },
+  "8cb936115ce658b12e2b19573062f63fdfd4cd7e.png": {
+    "title": "FOREGROUND2@2x.png",
+    "description": "Image of the inside of an empty home and an empty homes officer icon",
+    "tags": []
+  },
+  "a110b93af82bd0a2fdb761481b3a07853d0e0669.png": {
+    "title": "BACKGROUND2@2x.png",
+    "description": "Image of the inside of an empty home in the background",
+    "tags": []
+  },
+  "6cec2275f20dee170456186f0050fed8f9e44c84.png": {
+    "title": "FOREGROUND3@2x.png",
+    "description": "Image of yellow flat door and owner icon",
+    "tags": []
+  },
+  "90add3c383e5026013f14cfc2b271106869837a8.png": {
+    "title": "BACKGROUND3@2x.png",
+    "description": "Image of yellow and green flat doors in background",
+    "tags": []
+  },
+  "86fd66a12fd268298ce5d45c4fdbe4797437be61.png": {
+    "title": "FOREGROUND4@2x.png",
+    "description": "Image of home in state of disrepair and tools icon",
+    "tags": []
+  },
+  "71f579f26c5d1bfde3ad1f34d7630a7f04393ae7.png": {
+    "title": "BACKGROUND4@2x.png",
+    "description": "Image of home in state of disrepair in background",
+    "tags": []
+  },
+  "96555e67422ef119c4c85e46f92d1afd4c2b80c6.pdf": {
+    "title": "Statutory Nuisance Flowchart.pdf",
+    "description": "Statutory Nuisance Flowchar",
     "tags": []
   }
 }

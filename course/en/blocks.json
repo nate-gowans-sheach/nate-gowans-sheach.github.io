@@ -121,8 +121,8 @@
       }
     },
     "_blockBackground": {
-      "mobileSrc": "course/en/assets/dc0bf37fb5d897b01f972507c8412bd96c337ea0.png",
-      "src": "course/en/assets/dc0bf37fb5d897b01f972507c8412bd96c337ea0.png",
+      "mobileSrc": "course/en/assets/71f579f26c5d1bfde3ad1f34d7630a7f04393ae7.png",
+      "src": "course/en/assets/71f579f26c5d1bfde3ad1f34d7630a7f04393ae7.png",
       "mobileBannerHeight": 150,
       "bannerHeight": 200,
       "backgroundSize": "contain",
@@ -133,7 +133,7 @@
     "_minimap": {
       "_isEnabled": true,
       "_top": 24,
-      "_left": 21
+      "_left": 55
     }
   },
   {
@@ -182,8 +182,8 @@
       }
     },
     "_blockBackground": {
-      "mobileSrc": "course/en/assets/10b00aedf8e1f6260a6bc6dea974e4c81baa9b0a.png",
-      "src": "course/en/assets/10b00aedf8e1f6260a6bc6dea974e4c81baa9b0a.png",
+      "mobileSrc": "course/en/assets/90add3c383e5026013f14cfc2b271106869837a8.png",
+      "src": "course/en/assets/90add3c383e5026013f14cfc2b271106869837a8.png",
       "mobileBannerHeight": 150,
       "bannerHeight": 200,
       "backgroundSize": "contain",
@@ -194,7 +194,7 @@
     "_minimap": {
       "_isEnabled": true,
       "_top": 41,
-      "_left": 42
+      "_left": 58
     }
   },
   {
@@ -441,8 +441,8 @@
       }
     },
     "_blockBackground": {
-      "mobileSrc": "course/en/assets/d74de4487e80d851b72c4830a8e8804ac09b4171.png",
-      "src": "course/en/assets/d74de4487e80d851b72c4830a8e8804ac09b4171.png",
+      "mobileSrc": "course/en/assets/a110b93af82bd0a2fdb761481b3a07853d0e0669.png",
+      "src": "course/en/assets/a110b93af82bd0a2fdb761481b3a07853d0e0669.png",
       "mobileBannerHeight": 150,
       "bannerHeight": 200,
       "backgroundSize": "contain",
@@ -453,7 +453,7 @@
     "_minimap": {
       "_isEnabled": true,
       "_top": 64,
-      "_left": 37
+      "_left": 58
     }
   },
   {
@@ -563,8 +563,8 @@
       }
     },
     "_blockBackground": {
-      "mobileSrc": "course/en/assets/8818630a861644b77cc4914d7ea391b04f7fed8a.png",
-      "src": "course/en/assets/8818630a861644b77cc4914d7ea391b04f7fed8a.png",
+      "mobileSrc": "course/en/assets/d9cc56210ade50d00744a91a6dc47d6321faeb79.png",
+      "src": "course/en/assets/d9cc56210ade50d00744a91a6dc47d6321faeb79.png",
       "mobileBannerHeight": 150,
       "bannerHeight": 200,
       "backgroundSize": "contain",
@@ -575,7 +575,7 @@
     "_minimap": {
       "_isEnabled": true,
       "_top": 76,
-      "_left": 30
+      "_left": 72
     }
   },
   {
