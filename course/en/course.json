@@ -1,9 +1,9 @@
 {
-  "title": "An introduction to empty homes work rework",
-  "displayTitle": "Empty homes database and casework rework",
+  "title": "Money and Pensions demo course",
+  "displayTitle": "Money and Pensions demo course",
   "body": "",
-  "description": "Empty homes training module two",
-  "_latestTrackingId": 27,
+  "description": "<span>Money Supporter</span> Training",
+  "_latestTrackingId": 18,
   "_buttons": {
     "_submit": {
       "buttonText": "Submit",
@@ -108,6 +108,12 @@
       },
       "_hotgrid": {
         "ariaRegion": "Selectable image component. Select each item to show more information."
+      },
+      "_imageJuxtapose": {
+        "ariaRegion": "Two images overlaid with a slider to show and each one."
+      },
+      "_chartjs": {
+        "ariaRegion": "This is a charting component."
       }
     },
     "_extensions": {
@@ -137,33 +143,13 @@
     "_isEnabled": true,
     "_startIds": [
       {
-        "_id": "5dbf09d9c0b9cda5babafa0a",
+        "_id": "5dd45bd2c0b9cda5babafe4f",
         "_skipIfComplete": false,
         "_className": ""
       }
     ],
     "_force": true,
     "_isMenuDisabled": false
-  },
-  "themeVariables": {
-    "_colors": {
-      "primary-color": "#078292",
-      "primary-color-inverted": "#ffffff",
-      "secondary-color": "#4b4e4f",
-      "secondary-color-inverted": "#ffffff",
-      "tertiary-color": "#ffffff",
-      "tertiary-color-inverted": "#4b4e4f",
-      "quaternary-color": "#37474f",
-      "quaternary-color-inverted": "#ffffff",
-      "foreground-color": "#4b4e4f",
-      "background-color": "#ffffff",
-      "foreground-color-inverted": "#ffffff",
-      "background-color-inverted": "#546e7a",
-      "validation-error": "#f26c4f",
-      "validation-success": "#82ca9c",
-      "disabled-color": "#727272",
-      "disabled-color-inverted": "#cccccc"
-    }
   },
   "_assessment": {
     "_postTotalScoreToLms": true,
@@ -172,7 +158,7 @@
   },
   "_pageLevelProgress": {
     "_isEnabled": true,
-    "_showPageCompletion": true
+    "_showPageCompletion": false
   },
   "_resources": {
     "_isEnabled": true,
@@ -180,7 +166,7 @@
     "title": "Resources",
     "description": "View resources for this course by clicking here.",
     "_filterButtons": {
-      "all": "All",
+      "all": "All ",
       "document": "Document",
       "media": "",
       "link": "Link"
@@ -193,36 +179,68 @@
     },
     "_resourcesItems": [
       {
-        "_type": "document",
-        "_forceDownload": true,
-        "title": "Empty Home Council Tax Liability Flowchart",
-        "filename": "Liability Flowchart",
-        "description": "Empty Home Council Tax Liability Flowchart",
-        "_link": "course/en/assets/49e6f8cf77b6b34c40581018f0853bb45ad72c70.pdf"
-      },
-      {
-        "_type": "document",
-        "_forceDownload": true,
-        "title": "Statutory Nuisance Flowchart",
-        "filename": "Statutory Nuisance Flowchart",
-        "description": "Statutory Nuisance Flowchart",
-        "_link": "course/en/assets/96555e67422ef119c4c85e46f92d1afd4c2b80c6.pdf"
+        "_type": "link",
+        "_forceDownload": false,
+        "title": "Turn2Us - benefit guides",
+        "filename": "",
+        "description": "",
+        "_link": "https://www.turn2us.org.uk/Benefit-guides/Benefit-Changes/Benefit-Changes-Timetable-2020#guide-content"
       },
       {
         "_type": "link",
         "_forceDownload": false,
-        "title": "Scottish Empty Homes Partnership",
-        "filename": "SEHP Website",
-        "description": "SEHP Website",
-        "_link": "https://emptyhomespartnership.scot/"
+        "title": "Money Advice Service - benefit changes",
+        "filename": "",
+        "description": "",
+        "_link": "https://www.moneyadviceservice.org.uk/en/articles/benefit-changes"
       },
       {
         "_type": "link",
         "_forceDownload": false,
-        "title": "Shelter Scotland",
-        "filename": "Shelter Scotland",
-        "description": "Shelter Scotland",
-        "_link": "https://scotland.shelter.org.uk"
+        "title": "GOV.UK - benefits and entitlement",
+        "filename": "",
+        "description": "",
+        "_link": "https://www.gov.uk/browse/benefits/entitlement"
+      },
+      {
+        "_type": "link",
+        "_forceDownload": false,
+        "title": "Universal Credit and benefits calculator ",
+        "filename": "",
+        "description": "",
+        "_link": "https://moneysavingexpert.entitledto.co.uk/home/start"
+      },
+      {
+        "_type": "link",
+        "_forceDownload": false,
+        "title": "Entitledto - benefits calculator",
+        "filename": "",
+        "description": "",
+        "_link": "https://www.entitledto.co.uk/benefits-calculator/Intro/Home?cid=c6fa7762-e8f2-4175-a5a3-d061a25348a4"
+      },
+      {
+        "_type": "link",
+        "_forceDownload": false,
+        "title": "Policy in Practice - benefits calculator",
+        "filename": "",
+        "description": "",
+        "_link": "https://www.betteroffcalculator.co.uk/#/free"
+      },
+      {
+        "_type": "document",
+        "_forceDownload": false,
+        "title": "Most Common Benefits ",
+        "filename": "",
+        "description": "A document detailing the most common benefits available to the people you support.",
+        "_link": "course/en/assets/2bdea8d36df308f89f6cae517fbc28a2c7288775.pdf"
+      },
+      {
+        "_type": "document",
+        "_forceDownload": false,
+        "title": "Universal Credit",
+        "filename": "",
+        "description": "A document that explains Universal Credit",
+        "_link": "course/en/assets/c94aa05ec70ce90ce5651c4ce864f2b254823e37.pdf"
       }
     ]
   },

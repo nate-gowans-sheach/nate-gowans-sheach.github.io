@@ -4,14 +4,14 @@
   "_questionWeight": 1,
   "_generateSourcemap": false,
   "_forceRouteLocking": true,
-  "_id": "5dbf09d9c0b9cda5babafa4c",
+  "_id": "5dd45bd2c0b9cda5babafe4e",
   "_logging": {
     "_isEnabled": true,
     "_level": "debug",
     "_console": true
   },
   "_accessibility": {
-    "_isEnabled": true,
+    "_isEnabled": false,
     "_isEnabledOnTouchDevices": false,
     "_shouldSupportLegacyBrowsers": true,
     "_isTextProcessorEnabled": true,
@@ -22,19 +22,8 @@
     "_hideEasing": "easeInQuart",
     "_duration": 400
   },
-  "_courseId": "5dbf09d9c0b9cda5babafa09",
+  "_courseId": "5dd45bd2c0b9cda5babafe4d",
   "__v": 0,
-  "_inview": {
-    "_allowScrollOver": true
-  },
-  "screenSize": {
-    "small": 519,
-    "medium": 759,
-    "large": 1024
-  },
-  "_trickle": {
-    "_completionAttribute": "_isComplete"
-  },
   "_spoor": {
     "_isEnabled": true,
     "_tracking": {
@@ -45,37 +34,10 @@
       "_shouldRecordInteractions": true
     },
     "_reporting": {
+      "_comment": "Your options here are 'completed', 'passed', 'failed', and 'incomplete'",
       "_onTrackingCriteriaMet": "completed",
       "_onAssessmentFailure": "incomplete",
       "_resetStatusOnLanguageChange": false
-    },
-    "_advancedSettings": {
-      "_showDebugWindow": false,
-      "_commitOnStatusChange": true,
-      "_timedCommitFrequency": 10,
-      "_maxCommitRetries": 5,
-      "_commitRetryDelay": 2000,
-      "_suppressErrors": false,
-      "_commitOnVisibilityChangeHidden": true
-    }
-  },
-  "_languagePicker": {
-    "_isEnabled": false,
-    "title": "",
-    "displayTitle": "",
-    "body": "",
-    "_showOnCourseLoad": true,
-    "_languagePickerIconClass": "icon-language-2",
-    "_classes": "",
-    "_languages": [],
-    "_accessibility": {
-      "accessibilityToggleTextOn": "Turn accessibility on?",
-      "accessibilityToggleTextOff": "Turn accessibility off?",
-      "_accessibilityInstructions": {
-        "touch": "Usage instructions. Use swipe right for next. Use swipe left for previous. Use a double tap to select. Use a two finger slide up to go to the top of the page.",
-        "notouch": "Usage instructions. Use tab for next. Use shift tab for previous. Use enter to select. Use escape to go to the top of the page.",
-        "ipad": "Usage instructions for touchscreens. Use swipe right for next. Use swipe left for previous. Use a double tap to select. Use a two finger slide up to go to the top of the page. Usage instructions for keyboard access. Use right for next. Use left for previous. Use up and down together to select."
-      }
     }
   },
   "build": {
@@ -84,12 +46,11 @@
       "5d811e8b514570e00d57a546",
       "adapt-contrib-media",
       "adapt-contrib-text",
-      "adapt-contrib-narrative",
       "adapt-contrib-graphic",
-      "adapt-contrib-hotgraphic",
-      "adapt-contrib-flipcard",
-      "adapt-contrib-accordion",
+      "adapt-imageJuxtapose",
       "adapt-hotgrid",
+      "adapt-contrib-hotgraphic",
+      "adapt-contrib-narrative",
       "adapt-block-background",
       "adapt-close",
       "adapt-contrib-assessment",
