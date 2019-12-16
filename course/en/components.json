@@ -9,8 +9,8 @@
     "title": "Media",
     "displayTitle": "",
     "body": "",
-    "_id": "5dd45bd2c0b9cda5babafe6a",
-    "_parentId": "5dd45bd2c0b9cda5babafe5c",
+    "_id": "5df74a9f0558cb190f678e9c",
+    "_parentId": "5df74a9e0558cb190f678e6a",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -62,8 +62,8 @@
     "title": "Information required when using online benefit calculators ",
     "displayTitle": "Information required when using online benefit calculators ",
     "body": "<p><span style=\"color:#FFFFFF\">Online benefit calculators&nbsp;will likely request the following information - so do ensure&nbsp;the person you are supporting has this to hand before starting a calculation:&nbsp;</span></p><ul style=\"list-style-type:square\"><li><span style=\"color:#FFFFFF\">Income details&nbsp;(for example, benefits, earnings from employment, tax credits and pensions)&nbsp;</span></li><li><span style=\"color:#FFFFFF\">Whether the claimant is married, in a civil partnership or co-habiting (income details of their partner will also be required)</span></li><li><span style=\"color:#FFFFFF\">Details of anyone living with the claimant&nbsp;</span></li><li><span style=\"color:#FFFFFF\">Any savings or investments&nbsp;</span></li></ul><ul style=\"list-style-type:square\"><li><span style=\"color:#FFFFFF\">Any tax bills&nbsp;</span></li><li><span style=\"color:#FFFFFF\">Rent or mortgage payments&nbsp;</span></li><li><span style=\"color:#FFFFFF\">Whether the claimant or anyone else in the household receives carer’s Allowance.&nbsp;</span></li></ul>",
-    "_id": "5dd45bd2c0b9cda5babafe6e",
-    "_parentId": "5dd45bd2c0b9cda5babafe5d",
+    "_id": "5df74a9f0558cb190f678e9f",
+    "_parentId": "5df74a9f0558cb190f678e92",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -86,8 +86,8 @@
     "title": "Here is a graphic object",
     "displayTitle": "",
     "body": "",
-    "_id": "5dd45bd2c0b9cda5babafe6f",
-    "_parentId": "5dd45bd2c0b9cda5babafe5d",
+    "_id": "5df74a9f0558cb190f678ea0",
+    "_parentId": "5df74a9f0558cb190f678e92",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -115,9 +115,9 @@
     "_isVisible": true,
     "title": "Everyone’s situation is different",
     "displayTitle": "Everyone’s situation is different",
-    "body": "<p>Everyone’s situation is different and their eligibility for benefits is dependent on their individual&nbsp;needs.</p><p>Move the slider across the image to view two different circumstances:&nbsp;</p>",
-    "_id": "5dd45bd2c0b9cda5babafe7a",
-    "_parentId": "5dd45bd2c0b9cda5babafe5b",
+    "body": "<p>Everyone’s situation is different and their eligibility for benefits is dependent on their individual&nbsp;needs.</p><p><strong>Note:</strong> the slider component&nbsp;has been placed here&nbsp;for the purposes of the demo -&nbsp; we intend to bring in more case studies, narrative and example client scenarios to assist you throughout 'Money Supporter Training'.</p><p>Move the slider across the image to view two different circumstances:&nbsp;</p>",
+    "_id": "5df74a9f0558cb190f678ea3",
+    "_parentId": "5df74a9f0558cb190f678e95",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -151,8 +151,8 @@
     "title": "Online benefit calculators ",
     "displayTitle": "Online benefit calculators ",
     "body": "<p>Online calculators&nbsp;are a good starting point to&nbsp;determine and calculate how much benefit someone should receive.</p><p>Select the images below to take a closer look at online calculators:</p>",
-    "_id": "5dd45bd2c0b9cda5babafe7d",
-    "_parentId": "5dd45bd2c0b9cda5babafe60",
+    "_id": "5df74a9f0558cb190f678ea6",
+    "_parentId": "5df74a9f0558cb190f678e8c",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -223,8 +223,8 @@
     "title": "Social and environmental barriers a person may face",
     "displayTitle": "Social and environmental barriers a person may face",
     "body": "<p>Select the hotspots on the image to reveal potential social and environmental barriers a person may face:</p>",
-    "_id": "5dd45bd2c0b9cda5babafe84",
-    "_parentId": "5dd45bd2c0b9cda5babafe61",
+    "_id": "5df74a9f0558cb190f678ead",
+    "_parentId": "5df74a9f0558cb190f678e86",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -249,11 +249,11 @@
     "_items": [
       {
         "title": "English is not their first language",
-        "body": "<p>Support service&nbsp;information for when working with people that require support with&nbsp;English language to be placed here ...</p>",
+        "body": "<p>Try and make any interaction as smooth&nbsp;and understandable as possible. Slow down your speech, use body language and avoid slang and complex words. Being respectful, clear, and empathetic will help make your interactions better.</p>",
         "strapline": "English is not their first language",
         "_graphic": {
-          "src": "course/en/assets/440d5fa82da0cee1ece63852513807a2f3e303f4.jpg",
-          "alt": "alt text",
+          "src": "course/en/assets/8be578e8d38216651e439dd28eeb9fa19eee94ed.png",
+          "alt": "illustration of woman using the telephone",
           "attribution": "",
           "title": "",
           "_classes": ""
@@ -264,11 +264,11 @@
       },
       {
         "title": "Literacy and numeracy issues",
-        "body": "<p>Support service&nbsp;information for when working with people that require support with&nbsp;literacy and numeracy to be placed here ...</p>",
+        "body": "<p>Lacking basic literacy and numeracy skills can have an impact on&nbsp;a person’s&nbsp;ability to manage their money effectively.&nbsp;Help break tasks down into smaller&nbsp;steps, use the&nbsp;persons&nbsp;own words, language, and personal context&nbsp;to build confidence and a sense of control over&nbsp;money.&nbsp;</p>",
         "strapline": "Literacy and numeracy issues",
         "_graphic": {
-          "src": "course/en/assets/440d5fa82da0cee1ece63852513807a2f3e303f4.jpg",
-          "alt": "alt text",
+          "src": "course/en/assets/2bf028d3a66c5c95e88b200edf77091ccc00e703.png",
+          "alt": "illustration of man holding page of paper",
           "attribution": "",
           "title": "",
           "_classes": ""
@@ -279,11 +279,11 @@
       },
       {
         "title": "Limited IT skills, access to computer or internet ",
-        "body": "<p>Support service&nbsp;information for when working with people that require support with IT issues and internet connectivity to be placed here&nbsp;&nbsp;...</p>",
+        "body": "<p>Help the person learn by showing the person how to do things online as well as tell them how to do some tasks.&nbsp;Find out if there are other services that could help&nbsp;or&nbsp;help them&nbsp;access&nbsp;an online&nbsp;course. Access the internet at&nbsp;a&nbsp;local library, community&nbsp;centre&nbsp;or other&nbsp;organisations&nbsp;who may&nbsp;provide free use of computers&nbsp;to the public.&nbsp;&nbsp;</p>",
         "strapline": "Limited IT skills, access to computer or internet ",
         "_graphic": {
-          "src": "course/en/assets/440d5fa82da0cee1ece63852513807a2f3e303f4.jpg",
-          "alt": "alt text",
+          "src": "course/en/assets/8c0ceffaf8e2a3d34b7b8e69dccaa1649f5c039f.png",
+          "alt": "illustration of laptop computer",
           "attribution": "",
           "title": "",
           "_classes": ""
@@ -294,11 +294,11 @@
       },
       {
         "title": "Managing addiction",
-        "body": "<p>Support service&nbsp;information for when working with people that require support with addiction to be placed here&nbsp;&nbsp;...</p>",
+        "body": "<p>Understanding problems a person may have had managing money in the past may help you to&nbsp;recognise&nbsp;any triggers and work with them to address any negative&nbsp;behaviours&nbsp;around money and addiction.&nbsp;&nbsp;</p>",
         "strapline": "Managing addiction",
         "_graphic": {
-          "src": "course/en/assets/440d5fa82da0cee1ece63852513807a2f3e303f4.jpg",
-          "alt": "",
+          "src": "course/en/assets/191a9d94dd9c716099b035ac95f8fc9ebbe88e50.png",
+          "alt": "illustration of person with folded arms and frustration",
           "attribution": "",
           "title": "",
           "_classes": ""
@@ -309,11 +309,11 @@
       },
       {
         "title": "Mental health issues",
-        "body": "<p>Support service&nbsp;information for when working with people that require support with mental health issues to be placed here&nbsp;&nbsp;...</p>",
+        "body": "<p>Poor mental health can make managing money harder and worrying about money can make a person’s mental health worse.&nbsp;Supporting&nbsp;someone&nbsp;with the benefits system or being in debt may help them feel less stressed, anxious and worried about the future.&nbsp;</p>",
         "strapline": "Mental health issues",
         "_graphic": {
-          "src": "course/en/assets/440d5fa82da0cee1ece63852513807a2f3e303f4.jpg",
-          "alt": "",
+          "src": "course/en/assets/1761098fadb960b8f19753563bc46222b66f987b.png",
+          "alt": "illustration of person sitting at table on stool",
           "attribution": "",
           "title": "",
           "_classes": ""
@@ -334,8 +334,8 @@
     "title": "About ",
     "displayTitle": "About ",
     "body": "<p><span style=\"color:#E4DF00\">Five&nbsp;partner agencies</span> from the advice and support practitioner community across Scotland are working&nbsp;with Shelter Scotland and MAPs to develop this&nbsp;money&nbsp;first-aid training product.</p><p>&nbsp;</p><p>A total of&nbsp;<span style=\"color:#E4DF00\">50&nbsp;individuals</span> have been&nbsp;involved in the co-design process to date, contributing their own knowledge and experience to the information and resources within.&nbsp;</p><p>&nbsp;</p><p>The&nbsp;training&nbsp;product is&nbsp;intended to be piloted with <span style=\"color:#E4DF00\">250 individuals</span> upon its release nationally.&nbsp;&nbsp;</p>",
-    "_id": "5de6b4bdfcc9a60ab425e603",
-    "_parentId": "5de6b471fcc9a60ab425e600",
+    "_id": "5df74a9f0558cb190f678eb4",
+    "_parentId": "5df74a9f0558cb190f678e7a",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -358,8 +358,8 @@
     "title": "About you",
     "displayTitle": "About you",
     "body": "<p>You do not have to be a specialist money adviser to provide vital financial support to others and this training product has been designed for those who provide a range of frontline support services.</p><p>As well as knowledge it also provides you with a toolbox-like collection of resources. Which you can make use of to facilitate the advice and support you provide to others.&nbsp;</p>",
-    "_id": "5de6b734fcc9a60ab425e60a",
-    "_parentId": "5de6b711fcc9a60ab425e607",
+    "_id": "5df74a9f0558cb190f678eb5",
+    "_parentId": "5df74a9f0558cb190f678e80",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -382,8 +382,8 @@
     "title": "Component title",
     "displayTitle": "",
     "body": "",
-    "_id": "5de6b738fcc9a60ab425e60b",
-    "_parentId": "5de6b711fcc9a60ab425e607",
+    "_id": "5df74a9f0558cb190f678eb6",
+    "_parentId": "5df74a9f0558cb190f678e80",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -412,8 +412,8 @@
     "title": "Welcome",
     "displayTitle": "Welcome",
     "body": "<p>Welcome to '<em>Money Supporter Training'.</em></p><p>This is a first stage demo of the training product that is being developed by Shelter Scotland, Money &amp; Pensions Service and partners.</p><p>In the interest of co-design and involvement - we are giving you a chance to view this very early representation of the build of&nbsp;'<em>Money Supporter Training'</em>.</p><p><em>'Money Supporter Training'&nbsp;</em>is scheduled to go live in Feb 2020. There will be numerous chances between now and then to be involved in this project and contribute to it.&nbsp;</p><p><em>'Money Supporter Training'</em> seeks to provide you with the capabilities to support the people you work with to:&nbsp;&nbsp;</p><ul style=\"list-style-type:square\"><li><span style=\"color:#4b4e4f\">Manage their own budget and credit with your guidance</span></li><li><span style=\"color:#4b4e4f\">Build financial resilience.&nbsp;</span></li></ul><p><span style=\"color:#ea232d\"><strong>We are delighted to have you here with us.&nbsp;</strong></span></p>",
-    "_id": "5de6c7eafcc9a60ab425e6dd",
-    "_parentId": "5de6c7cafcc9a60ab425e6da",
+    "_id": "5df74a9f0558cb190f678eb9",
+    "_parentId": "5df74a9e0558cb190f678e71",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -433,11 +433,11 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "title": "<div>Money Supporter Training </div>Structure",
-    "displayTitle": "<div>Money Supporter Training </div>Structure",
+    "title": "<div>Money Supporter Training </div>structure",
+    "displayTitle": "<div>Money Supporter Training </div>structure",
     "body": "<p><span style=\"color:#FFFFFF\">The training product is structured into three main parts:&nbsp;</span></p><ol start=\"1\"><li><p><span style=\"color:#FFFFFF\">The training course which takes an estimated 1-2hrs to complete and is an entirely self-serving online activity. You will be expected to read articles on topics (including Welfare benefits, Budgeting, Savings,&nbsp;Planning&nbsp;for later life, Debt solutions, Borrowing), familiarising yourself with the soft-skills and approaches within each topic.&nbsp;&nbsp;</span></p></li></ol><ol start=\"2\"><li><p><span style=\"color:#FFFFFF\">Downloadable resources which you can access any time you need them, in order to facilitate your own practical advice and support to others.&nbsp;</span></p></li></ol><ol start=\"3\"><li><p><span style=\"color:#FFFFFF\">Sign-posting links to useful applications and other cross-sector organisations for times when additional or more specialist support is required.&nbsp;</span></p></li></ol>",
-    "_id": "5de6ca3bfcc9a60ab425e6e1",
-    "_parentId": "5de6ca17fcc9a60ab425e6de",
+    "_id": "5df74a9f0558cb190f678eba",
+    "_parentId": "5df74a9f0558cb190f678e89",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -460,8 +460,8 @@
     "title": "Component title",
     "displayTitle": "",
     "body": "",
-    "_id": "5de6ca4afcc9a60ab425e6e2",
-    "_parentId": "5de6ca17fcc9a60ab425e6de",
+    "_id": "5df74a9f0558cb190f678ebb",
+    "_parentId": "5df74a9f0558cb190f678e89",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -490,8 +490,8 @@
     "title": "Contents",
     "displayTitle": "Contents",
     "body": "<p><em>'Money Supporter Training'</em> will cover these key topics:&nbsp;</p><ol start=\"1\"><li><p>Welfare benefits - <strong>partially available now</strong>&nbsp;</p></li><li><p>Budgeting -&nbsp;<strong>coming soon</strong></p></li><li><p>Savings&nbsp;-&nbsp;<strong>coming soon</strong></p></li><li><p>Planning&nbsp;for later life&nbsp;-&nbsp;<strong>coming soon</strong></p></li><li><p>Debt solutions&nbsp;-&nbsp;<strong>coming soon</strong></p></li><li><p>Borrowing&nbsp;-&nbsp;<strong>coming soon</strong>​​​​​​​​​​​​​​</p></li></ol><p>Included within each topic are skills and approaches that you can apply when working with people.</p>",
-    "_id": "5df0e9c6d31f0f67c9de48e1",
-    "_parentId": "5df0e9c6d31f0f67c9de48de",
+    "_id": "5df74aa00558cb190f678ebe",
+    "_parentId": "5df74a9f0558cb190f678e8f",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -514,8 +514,8 @@
     "title": "Component title",
     "displayTitle": "",
     "body": "",
-    "_id": "5df0e9c6d31f0f67c9de48e2",
-    "_parentId": "5df0e9c6d31f0f67c9de48de",
+    "_id": "5df74aa00558cb190f678ebf",
+    "_parentId": "5df74a9f0558cb190f678e8f",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -544,8 +544,8 @@
     "title": "Component title",
     "displayTitle": "",
     "body": "",
-    "_id": "5df0f0bed31f0f67c9de48e8",
-    "_parentId": "5de6c7cafcc9a60ab425e6da",
+    "_id": "5df74aa00558cb190f678ec2",
+    "_parentId": "5df74a9e0558cb190f678e71",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -574,8 +574,8 @@
     "title": "Welfare benefits in 60 seconds",
     "displayTitle": "Welfare benefits in 60 seconds",
     "body": "<p>View <em>'Welfare benefits in 60 seconds' </em>part of our 60 second short&nbsp;advice series:</p>",
-    "_id": "5df101e0d31f0f67c9de48f8",
-    "_parentId": "5df10197d31f0f67c9de48f4",
+    "_id": "5df74aa00558cb190f678ec5",
+    "_parentId": "5df74a9e0558cb190f678e6b",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -627,8 +627,8 @@
     "title": "The people you support",
     "displayTitle": "The people you support",
     "body": "<p>Some&nbsp;of the people you support may:&nbsp;&nbsp;&nbsp;</p><ul style=\"list-style-type:square\"><li><span style=\"color:#FFFFFF\">Be&nbsp;in crisis</span></li><li><span style=\"color:#FFFFFF\">Be&nbsp;in debt</span></li><li><span style=\"color:#FFFFFF\">Not&nbsp;be&nbsp;coping</span></li><li><span style=\"color:#FFFFFF\">Have no&nbsp;money</span></li><li><span style=\"color:#FFFFFF\">Be fleeing domestic abuse</span></li><li><span style=\"color:#FFFFFF\">Have&nbsp;an&nbsp;addiction</span></li><li><span style=\"color:#FFFFFF\">Have an appointee</span></li><li><span style=\"color:#FFFFFF\">Have mental health issues</span></li><li><span style=\"color:#FFFFFF\">Be unemployed</span></li><li><span style=\"color:#FFFFFF\">Be in supported accommodation</span></li><li><span style=\"color:#FFFFFF\">Be vulnerable.</span></li></ul>",
-    "_id": "5df104cad31f0f67c9de4900",
-    "_parentId": "5df10427d31f0f67c9de48fc",
+    "_id": "5df74aa00558cb190f678ec8",
+    "_parentId": "5df74a9e0558cb190f678e74",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -651,8 +651,8 @@
     "title": "Component title",
     "displayTitle": "",
     "body": "",
-    "_id": "5df104cdd31f0f67c9de4901",
-    "_parentId": "5df10427d31f0f67c9de48fc",
+    "_id": "5df74aa00558cb190f678ec9",
+    "_parentId": "5df74a9e0558cb190f678e74",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -681,8 +681,8 @@
     "title": "UK Government's most recent changes to benefits",
     "displayTitle": "UK Government's most recent changes to benefits",
     "body": "",
-    "_id": "5df1087cd31f0f67c9de490b",
-    "_parentId": "5df10865d31f0f67c9de4907",
+    "_id": "5df74aa00558cb190f678ecc",
+    "_parentId": "5df74a9f0558cb190f678e83",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -739,9 +739,9 @@
     "_isVisible": true,
     "title": "Skills and approaches",
     "displayTitle": "Skills and approaches",
-    "body": "<p><span style=\"color:#FFFFFF\"><strong>Things to consider when supporting&nbsp;someone&nbsp;with their&nbsp;benefits&nbsp;and finances</strong>&nbsp;&nbsp;</span></p><ul style=\"list-style-type:square\"><li><span style=\"color:#FFFFFF\">Where possible, the person you support should be supported to apply and manage their own benefits.&nbsp;For some people, you may have to intervene and&nbsp;manage&nbsp;benefit&nbsp;issues&nbsp;on their behalf.&nbsp;In this situation you can&nbsp;ask for a signed letter of authority giving you permission to call the&nbsp;agency&nbsp;on their behalf</span></li><li><span style=\"color:#FFFFFF\">Ask&nbsp;questions and listen to them carefully to ensure that&nbsp;you; understand their circumstances for example, family&nbsp;relationships, looking for work, illness,&nbsp;homelessness, leaving care or prison</span></li><li><span style=\"color:#FFFFFF\">Identify&nbsp;individual needs and&nbsp;vulnerabilities&nbsp;for example,&nbsp;those&nbsp;susceptible to financial abuse&nbsp;and scamming</span></li><li><span style=\"color:#FFFFFF\">Recognise that some people&nbsp;may need&nbsp;to be accompanied to&nbsp;meetings, appointments&nbsp;or assessments.&nbsp;&nbsp;&nbsp;</span></li></ul>",
-    "_id": "5df116bad31f0f67c9de4919",
-    "_parentId": "5df11695d31f0f67c9de4915",
+    "body": "<p><span style=\"color:#FFFFFF\"><strong>Things to consider when supporting&nbsp;someone&nbsp;with their&nbsp;benefits&nbsp;and finances:</strong>&nbsp;&nbsp;</span></p><ul style=\"list-style-type:square\"><li><span style=\"color:#FFFFFF\">Where possible, the person you support should be supported to apply and manage their own benefits.&nbsp;For some people, you may have to intervene and&nbsp;manage&nbsp;benefit&nbsp;issues&nbsp;on their behalf.&nbsp;In this situation you can&nbsp;ask for a signed letter of authority giving you permission to call the&nbsp;agency&nbsp;on their behalf</span></li><li><span style=\"color:#FFFFFF\">Ask&nbsp;questions and listen to them carefully to ensure that&nbsp;you; understand their circumstances for example, family&nbsp;relationships, looking for work, illness,&nbsp;homelessness, leaving care or prison</span></li><li><span style=\"color:#FFFFFF\">Identify&nbsp;individual needs and&nbsp;vulnerabilities&nbsp;for example,&nbsp;those&nbsp;susceptible to financial abuse&nbsp;and scamming</span></li><li><span style=\"color:#FFFFFF\">Recognise that some people&nbsp;may need&nbsp;to be accompanied to&nbsp;meetings, appointments&nbsp;or assessments.&nbsp;&nbsp;&nbsp;</span></li></ul>",
+    "_id": "5df74aa00558cb190f678ed0",
+    "_parentId": "5df74a9f0558cb190f678e7d",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -764,8 +764,8 @@
     "title": "Budgeting in 60 seconds",
     "displayTitle": "Budgeting in 60 seconds",
     "body": "<p>View <em>'Budgeting in 60 seconds' </em>part of our 60 second short&nbsp;advice series:</p>",
-    "_id": "5df11bfdd31f0f67c9de4956",
-    "_parentId": "5df11bfdd31f0f67c9de492f",
+    "_id": "5df74aa00558cb190f678ed1",
+    "_parentId": "5df74a9e0558cb190f678e6e",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -817,8 +817,8 @@
     "title": "Component title",
     "displayTitle": "",
     "body": "",
-    "_id": "5df1256ad31f0f67c9de4965",
-    "_parentId": "5df11695d31f0f67c9de4915",
+    "_id": "5df74aa00558cb190f678ed4",
+    "_parentId": "5df74a9f0558cb190f678e7d",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -847,8 +847,8 @@
     "title": "Universal Credit",
     "displayTitle": "Universal Credit",
     "body": "<p><span style=\"color:#FFFFFF\">Visit the 'resources' area in the menu at the top right - to access the Money Supporter Training guide to Universal Credit.</span></p>",
-    "_id": "5df34dd7d31f0f67c9de49ab",
-    "_parentId": "5dd45bd2c0b9cda5babafe5f",
+    "_id": "5df74aa00558cb190f678ed7",
+    "_parentId": "5df74a9f0558cb190f678e96",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -871,8 +871,8 @@
     "title": "Most common benefits",
     "displayTitle": "Most common benefits",
     "body": "<p>Visit the 'resources' area in the menu at the top right - to access the Money Supporter Training guide to the most common benefits.</p>",
-    "_id": "5df34dddd31f0f67c9de49ac",
-    "_parentId": "5dd45bd2c0b9cda5babafe5f",
+    "_id": "5df74aa00558cb190f678ed8",
+    "_parentId": "5df74a9f0558cb190f678e96",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -895,8 +895,8 @@
     "title": "Thank you",
     "displayTitle": "Thank you",
     "body": "<p><span style=\"color:#191919\">Thank you for viewing this first stage demo of Money Supporter Training. It is our aim to keep you involved as much as possible in the development of this product in the interest of both co-design and involvement.&nbsp;</span></p><p><span style=\"color:#191919\">We thank you for your time and input along the way and we look forward to launching in February 2020.&nbsp;</span></p>",
-    "_id": "5df34fefd31f0f67c9de49b3",
-    "_parentId": "5df34fefd31f0f67c9de49b0",
+    "_id": "5df74aa00558cb190f678ed9",
+    "_parentId": "5df74a9f0558cb190f678e99",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -919,8 +919,32 @@
     "title": "Component title",
     "displayTitle": "",
     "body": "<p style=\"text-align: center;\">Development work will continue into early 2020 ...</p>",
-    "_id": "5df35198d31f0f67c9de49bc",
-    "_parentId": "5df3518ed31f0f67c9de49b6",
+    "_id": "5df74aa00558cb190f678eda",
+    "_parentId": "5df74a9f0558cb190f678e77",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Connecting info",
+    "displayTitle": "",
+    "body": "<p>The needs of the people you support will influence the skills and approaches that are required during your support.</p>",
+    "_id": "5df79a620558cb190f678ee9",
+    "_parentId": "5df79a620558cb190f678ee6",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {

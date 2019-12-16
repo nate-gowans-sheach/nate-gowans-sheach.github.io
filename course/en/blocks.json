@@ -10,8 +10,8 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5dd45bd2c0b9cda5babafe5c",
-    "_parentId": "5dd45bd2c0b9cda5babafe57",
+    "_id": "5df74a9e0558cb190f678e6a",
+    "_parentId": "5df74a9e0558cb190f678e67",
     "_type": "block"
   },
   {
@@ -25,8 +25,8 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5df10197d31f0f67c9de48f4",
-    "_parentId": "5dd45bd2c0b9cda5babafe58",
+    "_id": "5df74a9e0558cb190f678e6b",
+    "_parentId": "5df74a9e0558cb190f678e68",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -86,8 +86,8 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5df11bfdd31f0f67c9de492f",
-    "_parentId": "5df11bfdd31f0f67c9de4928",
+    "_id": "5df74a9e0558cb190f678e6e",
+    "_parentId": "5df74a9e0558cb190f678e69",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -147,8 +147,8 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5de6c7cafcc9a60ab425e6da",
-    "_parentId": "5dd45bd2c0b9cda5babafe57",
+    "_id": "5df74a9e0558cb190f678e71",
+    "_parentId": "5df74a9e0558cb190f678e67",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -208,8 +208,8 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5df10427d31f0f67c9de48fc",
-    "_parentId": "5dd45bd2c0b9cda5babafe58",
+    "_id": "5df74a9e0558cb190f678e74",
+    "_parentId": "5df74a9e0558cb190f678e68",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -269,8 +269,8 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5df3518ed31f0f67c9de49b6",
-    "_parentId": "5df11bfdd31f0f67c9de4928",
+    "_id": "5df74a9f0558cb190f678e77",
+    "_parentId": "5df74a9e0558cb190f678e69",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -330,8 +330,8 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5de6b471fcc9a60ab425e600",
-    "_parentId": "5dd45bd2c0b9cda5babafe57",
+    "_id": "5df74a9f0558cb190f678e7a",
+    "_parentId": "5df74a9e0558cb190f678e67",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -384,19 +384,19 @@
     "title": "b-105",
     "displayTitle": "",
     "body": "",
-    "_classes": "red",
+    "_classes": "red, callout",
     "_trackingId": 8,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5df11695d31f0f67c9de4915",
-    "_parentId": "5dd45bd2c0b9cda5babafe58",
+    "_id": "5df79a620558cb190f678ee6",
+    "_parentId": "5df74a9e0558cb190f678e68",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
-      "_classes": "red",
+      "_classes": "red, callout",
       "_percentInviewVertical": 50
     },
     "_assessment": {
@@ -452,8 +452,69 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5de6b711fcc9a60ab425e607",
-    "_parentId": "5dd45bd2c0b9cda5babafe57",
+    "_id": "5df74a9f0558cb190f678e7d",
+    "_parentId": "5df74a9e0558cb190f678e68",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "red",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_blockBackground": {
+      "mobileSrc": "course/en/assets/440d5fa82da0cee1ece63852513807a2f3e303f4.jpg",
+      "src": "course/en/assets/440d5fa82da0cee1ece63852513807a2f3e303f4.jpg",
+      "mobileBannerHeight": 150,
+      "bannerHeight": 300,
+      "backgroundSize": "cover",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundColor": "transparent"
+    },
+    "_minimap": {
+      "_isEnabled": false,
+      "_top": 50,
+      "_left": 50
+    }
+  },
+  {
+    "title": "b-105",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "red",
+    "_trackingId": 10,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5df74a9f0558cb190f678e80",
+    "_parentId": "5df74a9e0558cb190f678e67",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -507,14 +568,14 @@
     "displayTitle": "",
     "body": "",
     "_classes": "grey",
-    "_trackingId": 10,
+    "_trackingId": 11,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5df10865d31f0f67c9de4907",
-    "_parentId": "5dd45bd2c0b9cda5babafe58",
+    "_id": "5df74a9f0558cb190f678e83",
+    "_parentId": "5df74a9e0558cb190f678e68",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -564,67 +625,6 @@
     }
   },
   {
-    "title": "Social and environmental barriers a person may face",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "red",
-    "_trackingId": 11,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_id": "5dd45bd2c0b9cda5babafe61",
-    "_parentId": "5dd45bd2c0b9cda5babafe58",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": true,
-        "_className": "",
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_blockBackground": {
-      "mobileSrc": "course/en/assets/440d5fa82da0cee1ece63852513807a2f3e303f4.jpg",
-      "src": "course/en/assets/440d5fa82da0cee1ece63852513807a2f3e303f4.jpg",
-      "mobileBannerHeight": 150,
-      "bannerHeight": 300,
-      "backgroundSize": "cover",
-      "backgroundPosition": "center center",
-      "backgroundRepeat": "repeat",
-      "backgroundColor": "transparent"
-    },
-    "_minimap": {
-      "_isEnabled": true,
-      "_top": 50,
-      "_left": 50
-    }
-  },
-  {
     "title": "b-105",
     "displayTitle": "",
     "body": "",
@@ -635,8 +635,8 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5de6ca17fcc9a60ab425e6de",
-    "_parentId": "5dd45bd2c0b9cda5babafe57",
+    "_id": "5df74a9f0558cb190f678e89",
+    "_parentId": "5df74a9e0558cb190f678e67",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -686,22 +686,22 @@
     }
   },
   {
-    "title": "What does our research look like in numbers?",
+    "title": "Social and environmental barriers a person may face",
     "displayTitle": "",
     "body": "",
-    "_classes": "red ",
+    "_classes": "red",
     "_trackingId": 13,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5dd45bd2c0b9cda5babafe60",
-    "_parentId": "5dd45bd2c0b9cda5babafe58",
+    "_id": "5df74a9f0558cb190f678e86",
+    "_parentId": "5df74a9e0558cb190f678e68",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
-      "_classes": "red ",
+      "_classes": "",
       "_percentInviewVertical": 50
     },
     "_assessment": {
@@ -757,8 +757,8 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5df0e9c6d31f0f67c9de48de",
-    "_parentId": "5dd45bd2c0b9cda5babafe57",
+    "_id": "5df74a9f0558cb190f678e8f",
+    "_parentId": "5df74a9e0558cb190f678e67",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -808,18 +808,79 @@
     }
   },
   {
-    "title": "b-105",
+    "title": "What does our research look like in numbers?",
     "displayTitle": "",
     "body": "",
-    "_classes": "grey",
+    "_classes": "red ",
     "_trackingId": 15,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5dd45bd2c0b9cda5babafe5d",
-    "_parentId": "5dd45bd2c0b9cda5babafe58",
+    "_id": "5df74a9f0558cb190f678e8c",
+    "_parentId": "5df74a9e0558cb190f678e68",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "red ",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_blockBackground": {
+      "mobileSrc": "course/en/assets/440d5fa82da0cee1ece63852513807a2f3e303f4.jpg",
+      "src": "course/en/assets/440d5fa82da0cee1ece63852513807a2f3e303f4.jpg",
+      "mobileBannerHeight": 150,
+      "bannerHeight": 300,
+      "backgroundSize": "cover",
+      "backgroundPosition": "center center",
+      "backgroundRepeat": "repeat",
+      "backgroundColor": "transparent"
+    },
+    "_minimap": {
+      "_isEnabled": true,
+      "_top": 50,
+      "_left": 50
+    }
+  },
+  {
+    "title": "b-105",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "grey",
+    "_trackingId": 16,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5df74a9f0558cb190f678e92",
+    "_parentId": "5df74a9e0558cb190f678e68",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -873,14 +934,14 @@
     "displayTitle": "",
     "body": "",
     "_classes": "white",
-    "_trackingId": 16,
+    "_trackingId": 17,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5dd45bd2c0b9cda5babafe5b",
-    "_parentId": "5dd45bd2c0b9cda5babafe58",
+    "_id": "5df74a9f0558cb190f678e95",
+    "_parentId": "5df74a9e0558cb190f678e68",
     "_type": "block"
   },
   {
@@ -888,14 +949,14 @@
     "displayTitle": "",
     "body": "",
     "_classes": "red",
-    "_trackingId": 17,
+    "_trackingId": 18,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5dd45bd2c0b9cda5babafe5f",
-    "_parentId": "5dd45bd2c0b9cda5babafe58",
+    "_id": "5df74a9f0558cb190f678e96",
+    "_parentId": "5df74a9e0558cb190f678e68",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -949,14 +1010,14 @@
     "displayTitle": "",
     "body": "",
     "_classes": "cream",
-    "_trackingId": 18,
+    "_trackingId": 19,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5df34fefd31f0f67c9de49b0",
-    "_parentId": "5dd45bd2c0b9cda5babafe58",
+    "_id": "5df74a9f0558cb190f678e99",
+    "_parentId": "5df74a9e0558cb190f678e68",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,

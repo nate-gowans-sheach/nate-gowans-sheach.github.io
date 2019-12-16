@@ -3,7 +3,7 @@
   "displayTitle": "Money and Pensions demo course",
   "body": "",
   "description": "<span>Money Supporter</span> Training",
-  "_latestTrackingId": 18,
+  "_latestTrackingId": 19,
   "_buttons": {
     "_submit": {
       "buttonText": "Submit",
@@ -103,17 +103,8 @@
         "labelStart": "Start of the scale",
         "labelEnd": "End of the scale"
       },
-      "_flipcard": {
-        "ariaRegion": "This component is a flipcard comprised of flippable cards containing display image. Select the front face image to flip to the back face of these card to display associated text."
-      },
-      "_hotgrid": {
-        "ariaRegion": "Selectable image component. Select each item to show more information."
-      },
       "_imageJuxtapose": {
         "ariaRegion": "Two images overlaid with a slider to show and each one."
-      },
-      "_chartjs": {
-        "ariaRegion": "This is a charting component."
       }
     },
     "_extensions": {
@@ -132,9 +123,6 @@
       },
       "_languagePicker": {
         "navigationBarLabel": "Select course language"
-      },
-      "_close": {
-        "closeButton": "Select here to close the window."
       }
     }
   },
@@ -143,7 +131,7 @@
     "_isEnabled": true,
     "_startIds": [
       {
-        "_id": "5dd45bd2c0b9cda5babafe4f",
+        "_id": "5df74a9e0558cb190f678e60",
         "_skipIfComplete": false,
         "_className": ""
       }
@@ -254,33 +242,5 @@
       "yes": "Yes",
       "no": "No"
     }
-  },
-  "_drawerPageNavigation": {
-    "_isEnabled": true,
-    "title": "Navigation",
-    "description": "Click here to navigate this course"
-  },
-  "_close": {
-    "_isEnabled": true,
-    "_button": {
-      "_closeViaLMSFinish": false,
-      "_isEnabled": true,
-      "_notifyPromptIfIncomplete": {
-        "_isEnabled": false,
-        "title": "Confirm close",
-        "body": "<p>Are you sure you want to close the window?</p>",
-        "confirm": "Close window",
-        "cancel": "Cancel"
-      },
-      "_notifyPromptIfComplete": {
-        "_isEnabled": false,
-        "title": "Confirm close",
-        "body": "<p>Are you sure you want to close the window?</p>",
-        "confirm": "Close window",
-        "cancel": "Cancel"
-      }
-    },
-    "browserPromptIfIncomplete": "",
-    "browserPromptIfComplete": ""
   }
 }
