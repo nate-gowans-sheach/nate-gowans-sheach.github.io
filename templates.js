@@ -552,158 +552,6 @@ this["Handlebars"]["templates"]["hotgraphic"] = Handlebars.template({"1":functio
     + "    </div>\n  </div>\n</div>\n";
 },"usePartial":true,"useData":true,"useDepths":true});
 
-this["Handlebars"]["templates"]["media"] = Handlebars.template({"1":function(container,depth0,helpers,partials,data) {
-    var stack1;
-
-  return container.escapeExpression(container.lambda(((stack1 = ((stack1 = ((stack1 = (depth0 != null ? depth0._globals : depth0)) != null ? stack1._components : stack1)) != null ? stack1._media : stack1)) != null ? stack1.transcriptButton : stack1), depth0));
-},"3":function(container,depth0,helpers,partials,data) {
-    return "tabindex=\"0\"";
-},"5":function(container,depth0,helpers,partials,data) {
-    var stack1;
-
-  return "      <audio src=\""
-    + container.escapeExpression(container.lambda(((stack1 = (depth0 != null ? depth0._media : depth0)) != null ? stack1.mp3 : stack1), depth0))
-    + "\" type=\"audio/mp3\" style=\"width: 100%; height: 100%;\"/>\n";
-},"7":function(container,depth0,helpers,partials,data) {
-    var stack1;
-
-  return ((stack1 = helpers["if"].call(depth0 != null ? depth0 : (container.nullContext || {}),((stack1 = (depth0 != null ? depth0._media : depth0)) != null ? stack1.ogg : stack1),{"name":"if","hash":{},"fn":container.program(8, data, 0),"inverse":container.program(10, data, 0),"data":data})) != null ? stack1 : "");
-},"8":function(container,depth0,helpers,partials,data) {
-    var stack1;
-
-  return "        <audio src=\""
-    + container.escapeExpression(container.lambda(((stack1 = (depth0 != null ? depth0._media : depth0)) != null ? stack1.ogg : stack1), depth0))
-    + "\" type=\"audio/ogg\" style=\"width: 100%; height: 100%;\"/>\n";
-},"10":function(container,depth0,helpers,partials,data) {
-    var stack1, alias1=depth0 != null ? depth0 : (container.nullContext || {});
-
-  return "        <video preload=\"none\" width=\"640\" height=\"360\" "
-    + ((stack1 = helpers["if"].call(alias1,(depth0 != null ? depth0._playsinline : depth0),{"name":"if","hash":{},"fn":container.program(11, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
-    + " "
-    + ((stack1 = (helpers.if_value_equals || (depth0 && depth0.if_value_equals) || helpers.helperMissing).call(alias1,((stack1 = (depth0 != null ? depth0._media : depth0)) != null ? stack1.type : stack1),"video/vimeo",{"name":"if_value_equals","hash":{},"fn":container.program(13, data, 0),"inverse":container.program(15, data, 0),"data":data})) != null ? stack1 : "")
-    + " style=\"width:100%; height:100%;\" controls=\"controls\">\n"
-    + ((stack1 = helpers["if"].call(alias1,((stack1 = (depth0 != null ? depth0._media : depth0)) != null ? stack1.source : stack1),{"name":"if","hash":{},"fn":container.program(17, data, 0),"inverse":container.program(19, data, 0),"data":data})) != null ? stack1 : "")
-    + ((stack1 = helpers["if"].call(alias1,(depth0 != null ? depth0._useClosedCaptions : depth0),{"name":"if","hash":{},"fn":container.program(26, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
-    + "        </video>\n";
-},"11":function(container,depth0,helpers,partials,data) {
-    return "playsinline";
-},"13":function(container,depth0,helpers,partials,data) {
-    return "";
-},"15":function(container,depth0,helpers,partials,data) {
-    var stack1;
-
-  return "poster=\""
-    + container.escapeExpression(container.lambda(((stack1 = (depth0 != null ? depth0._media : depth0)) != null ? stack1.poster : stack1), depth0))
-    + "\"";
-},"17":function(container,depth0,helpers,partials,data) {
-    var stack1, alias1=container.lambda, alias2=container.escapeExpression;
-
-  return "            <source src=\""
-    + alias2(alias1(((stack1 = (depth0 != null ? depth0._media : depth0)) != null ? stack1.source : stack1), depth0))
-    + "\" type=\""
-    + alias2(alias1(((stack1 = (depth0 != null ? depth0._media : depth0)) != null ? stack1.type : stack1), depth0))
-    + "\"/>\n";
-},"19":function(container,depth0,helpers,partials,data) {
-    var stack1, alias1=depth0 != null ? depth0 : (container.nullContext || {});
-
-  return ((stack1 = helpers["if"].call(alias1,((stack1 = (depth0 != null ? depth0._media : depth0)) != null ? stack1.mp4 : stack1),{"name":"if","hash":{},"fn":container.program(20, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
-    + ((stack1 = helpers["if"].call(alias1,((stack1 = (depth0 != null ? depth0._media : depth0)) != null ? stack1.ogv : stack1),{"name":"if","hash":{},"fn":container.program(22, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
-    + ((stack1 = helpers["if"].call(alias1,((stack1 = (depth0 != null ? depth0._media : depth0)) != null ? stack1.webm : stack1),{"name":"if","hash":{},"fn":container.program(24, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "");
-},"20":function(container,depth0,helpers,partials,data) {
-    var stack1;
-
-  return "              <source src=\""
-    + container.escapeExpression(container.lambda(((stack1 = (depth0 != null ? depth0._media : depth0)) != null ? stack1.mp4 : stack1), depth0))
-    + "\" type=\"video/mp4\"/>\n";
-},"22":function(container,depth0,helpers,partials,data) {
-    var stack1;
-
-  return "              <source src=\""
-    + container.escapeExpression(container.lambda(((stack1 = (depth0 != null ? depth0._media : depth0)) != null ? stack1.ogv : stack1), depth0))
-    + "\" type=\"video/ogg\"/>\n";
-},"24":function(container,depth0,helpers,partials,data) {
-    var stack1;
-
-  return "              <source src=\""
-    + container.escapeExpression(container.lambda(((stack1 = (depth0 != null ? depth0._media : depth0)) != null ? stack1.webm : stack1), depth0))
-    + "\" type=\"video/webm\"/>\n";
-},"26":function(container,depth0,helpers,partials,data) {
-    var stack1;
-
-  return ((stack1 = helpers.each.call(depth0 != null ? depth0 : (container.nullContext || {}),((stack1 = (depth0 != null ? depth0._media : depth0)) != null ? stack1.cc : stack1),{"name":"each","hash":{},"fn":container.program(27, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "");
-},"27":function(container,depth0,helpers,partials,data) {
-    var helper, alias1=depth0 != null ? depth0 : (container.nullContext || {}), alias2=helpers.helperMissing, alias3="function", alias4=container.escapeExpression;
-
-  return "                  <track kind=\"subtitles\" src=\""
-    + alias4(((helper = (helper = helpers.src || (depth0 != null ? depth0.src : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"src","hash":{},"data":data}) : helper)))
-    + "\" type=\"text/vtt\" srclang=\""
-    + alias4(((helper = (helper = helpers.srclang || (depth0 != null ? depth0.srclang : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"srclang","hash":{},"data":data}) : helper)))
-    + "\" />\n";
-},"29":function(container,depth0,helpers,partials,data) {
-    var stack1, alias1=depth0 != null ? depth0 : (container.nullContext || {});
-
-  return "    <div class=\"media-transcript-container\">\n\n      <div class=\"media-transcript-button-container\">\n"
-    + ((stack1 = helpers["if"].call(alias1,((stack1 = (depth0 != null ? depth0._transcript : depth0)) != null ? stack1._inlineTranscript : stack1),{"name":"if","hash":{},"fn":container.program(30, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
-    + ((stack1 = helpers["if"].call(alias1,((stack1 = (depth0 != null ? depth0._transcript : depth0)) != null ? stack1._externalTranscript : stack1),{"name":"if","hash":{},"fn":container.program(35, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
-    + "        </div>\n\n"
-    + ((stack1 = helpers["if"].call(alias1,((stack1 = (depth0 != null ? depth0._transcript : depth0)) != null ? stack1._inlineTranscript : stack1),{"name":"if","hash":{},"fn":container.program(38, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
-    + "\n    </div>\n";
-},"30":function(container,depth0,helpers,partials,data) {
-    var stack1;
-
-  return "          <button class=\"media-inline-transcript-button button\" role=\"button\">\n            <div class=\"transcript-text-container\">\n"
-    + ((stack1 = helpers["if"].call(depth0 != null ? depth0 : (container.nullContext || {}),((stack1 = (depth0 != null ? depth0._transcript : depth0)) != null ? stack1.inlineTranscriptButton : stack1),{"name":"if","hash":{},"fn":container.program(31, data, 0),"inverse":container.program(33, data, 0),"data":data})) != null ? stack1 : "")
-    + "            </div>\n          </button>\n";
-},"31":function(container,depth0,helpers,partials,data) {
-    var stack1;
-
-  return "                "
-    + container.escapeExpression(container.lambda(((stack1 = (depth0 != null ? depth0._transcript : depth0)) != null ? stack1.inlineTranscriptButton : stack1), depth0))
-    + "\n";
-},"33":function(container,depth0,helpers,partials,data) {
-    var stack1;
-
-  return "                "
-    + container.escapeExpression(container.lambda(((stack1 = (depth0 != null ? depth0._transcript : depth0)) != null ? stack1.transcriptLink : stack1), depth0))
-    + "\n";
-},"35":function(container,depth0,helpers,partials,data) {
-    var stack1;
-
-  return "          <button onclick=\"window.open('"
-    + container.escapeExpression(container.lambda(((stack1 = (depth0 != null ? depth0._transcript : depth0)) != null ? stack1.transcriptLink : stack1), depth0))
-    + "')\" class=\"media-external-transcript-button button\" role=\"button\">\n            <div class=\"transcript-text-container\">\n"
-    + ((stack1 = helpers["if"].call(depth0 != null ? depth0 : (container.nullContext || {}),((stack1 = (depth0 != null ? depth0._transcript : depth0)) != null ? stack1.transcriptLinkButton : stack1),{"name":"if","hash":{},"fn":container.program(36, data, 0),"inverse":container.program(33, data, 0),"data":data})) != null ? stack1 : "")
-    + "            </div>\n          </button>\n";
-},"36":function(container,depth0,helpers,partials,data) {
-    var stack1;
-
-  return "                "
-    + container.escapeExpression(container.lambda(((stack1 = (depth0 != null ? depth0._transcript : depth0)) != null ? stack1.transcriptLinkButton : stack1), depth0))
-    + "\n";
-},"38":function(container,depth0,helpers,partials,data) {
-    var stack1;
-
-  return "          <div class=\"media-inline-transcript-body-container\">\n            <div class=\"media-inline-transcript-body\">\n            "
-    + ((stack1 = (helpers.a11y_text || (depth0 && depth0.a11y_text) || helpers.helperMissing).call(depth0 != null ? depth0 : (container.nullContext || {}),((stack1 = (depth0 != null ? depth0._transcript : depth0)) != null ? stack1.inlineTranscriptBody : stack1),{"name":"a11y_text","hash":{},"data":data})) != null ? stack1 : "")
-    + "\n            </div>\n          </div>\n";
-},"compiler":[7,">= 4.0.0"],"main":function(container,depth0,helpers,partials,data) {
-    var stack1, alias1=depth0 != null ? depth0 : (container.nullContext || {});
-
-  return "<div class=\"media-inner component-inner\" role=\"region\" aria-label=\""
-    + container.escapeExpression(container.lambda(((stack1 = ((stack1 = ((stack1 = (depth0 != null ? depth0._globals : depth0)) != null ? stack1._components : stack1)) != null ? stack1._media : stack1)) != null ? stack1.ariaRegion : stack1), depth0))
-    + " "
-    + ((stack1 = helpers["if"].call(alias1,((stack1 = (depth0 != null ? depth0._media : depth0)) != null ? stack1.transcriptLink : stack1),{"name":"if","hash":{},"fn":container.program(1, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
-    + "\" "
-    + ((stack1 = helpers["if"].call(alias1,((stack1 = ((stack1 = ((stack1 = (depth0 != null ? depth0._globals : depth0)) != null ? stack1._components : stack1)) != null ? stack1._media : stack1)) != null ? stack1.ariaRegion : stack1),{"name":"if","hash":{},"fn":container.program(3, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
-    + ">\n"
-    + ((stack1 = container.invokePartial(partials.component,depth0,{"name":"component","data":data,"indent":"    ","helpers":helpers,"partials":partials,"decorators":container.decorators})) != null ? stack1 : "")
-    + "    <div class=\"media-widget component-widget a11y-ignore-aria\">\n\n"
-    + ((stack1 = helpers["if"].call(alias1,((stack1 = (depth0 != null ? depth0._media : depth0)) != null ? stack1.mp3 : stack1),{"name":"if","hash":{},"fn":container.program(5, data, 0),"inverse":container.program(7, data, 0),"data":data})) != null ? stack1 : "")
-    + "    </div>\n"
-    + ((stack1 = helpers["if"].call(alias1,(depth0 != null ? depth0._transcript : depth0),{"name":"if","hash":{},"fn":container.program(29, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
-    + "    \n</div>\n";
-},"usePartial":true,"useData":true});
-
 this["Handlebars"]["templates"]["narrative"] = Handlebars.template({"1":function(container,depth0,helpers,partials,data) {
     return "narrative-text-controls";
 },"3":function(container,depth0,helpers,partials,data) {
@@ -1472,11 +1320,11 @@ this["Handlebars"]["templates"]["graphic"] = Handlebars.template({"1":function(c
 
   return "          <div class=\""
     + alias4(((helper = (helper = helpers._component || (depth0 != null ? depth0._component : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"_component","hash":{},"data":data}) : helper)))
-    + "-title component-title\">\n              <div role=\"heading\" tabindex=\"0\" class=\""
+    + "-title component-title\">\r\n              <div role=\"heading\" tabindex=\"0\" class=\""
     + alias4(((helper = (helper = helpers._component || (depth0 != null ? depth0._component : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"_component","hash":{},"data":data}) : helper)))
-    + "-title-inner component-title-inner\"  aria-level=\"4\">\n                  "
+    + "-title-inner component-title-inner\"  aria-level=\"4\">\r\n                  "
     + ((stack1 = (helpers.compile || (depth0 && depth0.compile) || alias2).call(alias1,(depth0 != null ? depth0.displayTitle : depth0),depth0,{"name":"compile","hash":{},"data":data})) != null ? stack1 : "")
-    + "\n              </div>\n          </div>\n";
+    + "\r\n              </div>\r\n          </div>\r\n";
 },"3":function(container,depth0,helpers,partials,data) {
     return " graphic-widget-attribution";
 },"5":function(container,depth0,helpers,partials,data) {
@@ -1492,43 +1340,43 @@ this["Handlebars"]["templates"]["graphic"] = Handlebars.template({"1":function(c
 
   return "            <div class=\"graphic-attribution\">"
     + ((stack1 = container.lambda(((stack1 = (depth0 != null ? depth0._graphic : depth0)) != null ? stack1.attribution : stack1), depth0)) != null ? stack1 : "")
-    + "</div>\n";
+    + "</div>\r\n";
 },"11":function(container,depth0,helpers,partials,data) {
     var stack1, helper, alias1=depth0 != null ? depth0 : (container.nullContext || {}), alias2=helpers.helperMissing, alias3="function", alias4=container.escapeExpression;
 
   return "          <div class=\""
     + alias4(((helper = (helper = helpers._component || (depth0 != null ? depth0._component : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"_component","hash":{},"data":data}) : helper)))
-    + "-body component-body\">\n              <div class=\""
+    + "-body component-body\">\r\n              <div class=\""
     + alias4(((helper = (helper = helpers._component || (depth0 != null ? depth0._component : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"_component","hash":{},"data":data}) : helper)))
-    + "-body-inner component-body-inner\">\n                  "
+    + "-body-inner component-body-inner\">\r\n                  "
     + ((stack1 = (helpers.compile_a11y_text || (depth0 && depth0.compile_a11y_text) || alias2).call(alias1,(depth0 != null ? depth0.body : depth0),depth0,{"name":"compile_a11y_text","hash":{},"data":data})) != null ? stack1 : "")
-    + "\n              </div>\n          </div>\n";
+    + "\r\n              </div>\r\n          </div>\r\n";
 },"13":function(container,depth0,helpers,partials,data) {
     var stack1, helper, alias1=depth0 != null ? depth0 : (container.nullContext || {}), alias2=helpers.helperMissing, alias3="function", alias4=container.escapeExpression;
 
   return "          <div class=\""
     + alias4(((helper = (helper = helpers._component || (depth0 != null ? depth0._component : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"_component","hash":{},"data":data}) : helper)))
-    + "-instruction component-instruction\">\n              <div class=\""
+    + "-instruction component-instruction\">\r\n              <div class=\""
     + alias4(((helper = (helper = helpers._component || (depth0 != null ? depth0._component : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"_component","hash":{},"data":data}) : helper)))
-    + "-instruction-inner component-instruction-inner\">\n                  "
+    + "-instruction-inner component-instruction-inner\">\r\n                  "
     + ((stack1 = (helpers.compile_a11y_text || (depth0 && depth0.compile_a11y_text) || alias2).call(alias1,(depth0 != null ? depth0.instruction : depth0),depth0,{"name":"compile_a11y_text","hash":{},"data":data})) != null ? stack1 : "")
-    + "\n              </div>\n          </div>\n";
+    + "\r\n              </div>\r\n          </div>\r\n";
 },"compiler":[7,">= 4.0.0"],"main":function(container,depth0,helpers,partials,data) {
     var stack1, helper, alias1=container.lambda, alias2=container.escapeExpression, alias3=depth0 != null ? depth0 : (container.nullContext || {}), alias4=helpers.helperMissing, alias5="function";
 
   return "<div class=\"graphic-inner component-inner\" role=\"region\" aria-label=\""
     + alias2(alias1(((stack1 = ((stack1 = ((stack1 = (depth0 != null ? depth0._globals : depth0)) != null ? stack1._components : stack1)) != null ? stack1._graphic : stack1)) != null ? stack1.ariaRegion : stack1), depth0))
-    + "\">\n\n  "
+    + "\">\r\n\r\n  "
     + alias2(((helper = (helper = helpers.import_globals || (depth0 != null ? depth0.import_globals : depth0)) != null ? helper : alias4),(typeof helper === alias5 ? helper.call(alias3,{"name":"import_globals","hash":{},"data":data}) : helper)))
-    + "\n  <div class=\""
+    + "\r\n  <div class=\""
     + alias2(((helper = (helper = helpers._component || (depth0 != null ? depth0._component : depth0)) != null ? helper : alias4),(typeof helper === alias5 ? helper.call(alias3,{"name":"_component","hash":{},"data":data}) : helper)))
-    + "-header component-header\">\n      <div class=\""
+    + "-header component-header\">\r\n      <div class=\""
     + alias2(((helper = (helper = helpers._component || (depth0 != null ? depth0._component : depth0)) != null ? helper : alias4),(typeof helper === alias5 ? helper.call(alias3,{"name":"_component","hash":{},"data":data}) : helper)))
-    + "-header-inner component-header-inner\">\n\n"
+    + "-header-inner component-header-inner\">\r\n\r\n"
     + ((stack1 = helpers["if"].call(alias3,(depth0 != null ? depth0.displayTitle : depth0),{"name":"if","hash":{},"fn":container.program(1, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
-    + "\n          <div class=\"graphic-widget component-widget"
+    + "\r\n          <div class=\"graphic-widget component-widget"
     + ((stack1 = helpers["if"].call(alias3,((stack1 = (depth0 != null ? depth0._graphic : depth0)) != null ? stack1.attribution : stack1),{"name":"if","hash":{},"fn":container.program(3, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
-    + "\">\n            <img src=\""
+    + "\">\r\n            <img src=\""
     + alias2(alias1(((stack1 = (depth0 != null ? depth0._graphic : depth0)) != null ? stack1.src : stack1), depth0))
     + "\" data-large=\""
     + alias2(alias1(((stack1 = (depth0 != null ? depth0._graphic : depth0)) != null ? stack1.large : stack1), depth0))
@@ -1536,13 +1384,13 @@ this["Handlebars"]["templates"]["graphic"] = Handlebars.template({"1":function(c
     + alias2(alias1(((stack1 = (depth0 != null ? depth0._graphic : depth0)) != null ? stack1.small : stack1), depth0))
     + "\""
     + ((stack1 = helpers["if"].call(alias3,((stack1 = (depth0 != null ? depth0._graphic : depth0)) != null ? stack1.alt : stack1),{"name":"if","hash":{},"fn":container.program(5, data, 0),"inverse":container.program(7, data, 0),"data":data})) != null ? stack1 : "")
-    + "/>\n          </div>\n"
+    + "/>\r\n          </div>\r\n"
     + ((stack1 = helpers["if"].call(alias3,((stack1 = (depth0 != null ? depth0._graphic : depth0)) != null ? stack1.attribution : stack1),{"name":"if","hash":{},"fn":container.program(9, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
-    + "\n"
+    + "\r\n"
     + ((stack1 = helpers["if"].call(alias3,(depth0 != null ? depth0.body : depth0),{"name":"if","hash":{},"fn":container.program(11, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
-    + "\n"
+    + "\r\n"
     + ((stack1 = helpers["if"].call(alias3,(depth0 != null ? depth0.instruction : depth0),{"name":"if","hash":{},"fn":container.program(13, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
-    + "\n      </div>\n  </div>\n</div>\n";
+    + "\r\n      </div>\r\n  </div>\r\n</div>\r\n";
 },"useData":true});
 
 this["Handlebars"]["templates"]["navigation"] = Handlebars.template({"1":function(container,depth0,helpers,partials,data) {
@@ -1571,42 +1419,42 @@ this["Handlebars"]["templates"]["navigation"] = Handlebars.template({"1":functio
 this["Handlebars"]["templates"]["page"] = Handlebars.template({"1":function(container,depth0,helpers,partials,data) {
     var stack1;
 
-  return "					<div class=\"page-title\">\n						<div class=\"page-title-inner h1\" tabindex=\"0\" role=\"heading\" aria-level=\"1\">\n							"
+  return "					<div class=\"page-title\">\r\n						<div class=\"page-title-inner h1\" tabindex=\"0\" role=\"heading\" aria-level=\"1\">\r\n							"
     + ((stack1 = (helpers.compile || (depth0 && depth0.compile) || helpers.helperMissing).call(depth0 != null ? depth0 : (container.nullContext || {}),(depth0 != null ? depth0.displayTitle : depth0),depth0,{"name":"compile","hash":{},"data":data})) != null ? stack1 : "")
-    + "\n						</div>\n					</div>\n";
+    + "\r\n						</div>\r\n					</div>\r\n";
 },"3":function(container,depth0,helpers,partials,data) {
     var stack1;
 
-  return "					<div class=\"page-body\">\n						<div class=\"page-body-inner\">\n"
+  return "					<div class=\"page-body\">\r\n						<div class=\"page-body-inner\">\r\n"
     + ((stack1 = helpers["if"].call(depth0 != null ? depth0 : (container.nullContext || {}),(depth0 != null ? depth0.pageBody : depth0),{"name":"if","hash":{},"fn":container.program(4, data, 0),"inverse":container.program(6, data, 0),"data":data})) != null ? stack1 : "")
-    + "						</div>\n					</div>\n";
+    + "						</div>\r\n					</div>\r\n";
 },"4":function(container,depth0,helpers,partials,data) {
     var stack1;
 
   return "								"
     + ((stack1 = (helpers.compile_a11y_text || (depth0 && depth0.compile_a11y_text) || helpers.helperMissing).call(depth0 != null ? depth0 : (container.nullContext || {}),(depth0 != null ? depth0.pageBody : depth0),depth0,{"name":"compile_a11y_text","hash":{},"data":data})) != null ? stack1 : "")
-    + "\n";
+    + "\r\n";
 },"6":function(container,depth0,helpers,partials,data) {
     var stack1;
 
   return "								"
     + ((stack1 = (helpers.compile_a11y_text || (depth0 && depth0.compile_a11y_text) || helpers.helperMissing).call(depth0 != null ? depth0 : (container.nullContext || {}),(depth0 != null ? depth0.body : depth0),depth0,{"name":"compile_a11y_text","hash":{},"data":data})) != null ? stack1 : "")
-    + "\n";
+    + "\r\n";
 },"compiler":[7,">= 4.0.0"],"main":function(container,depth0,helpers,partials,data) {
     var stack1, helper, alias1=depth0 != null ? depth0 : (container.nullContext || {}), alias2=container.escapeExpression, alias3=container.lambda;
 
   return alias2(((helper = (helper = helpers.import_globals || (depth0 != null ? depth0.import_globals : depth0)) != null ? helper : helpers.helperMissing),(typeof helper === "function" ? helper.call(alias1,{"name":"import_globals","hash":{},"data":data}) : helper)))
-    + "\n<div class=\"page-inner article-container\" role=\"main\" aria-label=\""
+    + "\r\n<div class=\"page-inner article-container\" role=\"main\" aria-label=\""
     + alias2(alias3(((stack1 = ((stack1 = ((stack1 = (depth0 != null ? depth0._globals : depth0)) != null ? stack1._accessibility : stack1)) != null ? stack1._ariaLabels : stack1)) != null ? stack1.page : stack1), depth0))
-    + "\">\n	<div class=\"page-header\">\n		<div class=\"page-header-inner clearfix\">\n\n			<div class=\"page-header-content\" style=\"background-image:url("
+    + "\">\r\n	<div class=\"page-header\">\r\n		<div class=\"page-header-inner clearfix\">\r\n\r\n			<div class=\"page-header-content\" style=\"background-image:url("
     + alias2(alias3(((stack1 = (depth0 != null ? depth0._graphic : depth0)) != null ? stack1.src : stack1), depth0))
-    + ");\">\n				<div class=\"page-header-content-inner\">\n\n"
+    + ");\">\r\n				<div class=\"page-header-content-inner\">\r\n\r\n"
     + ((stack1 = helpers["if"].call(alias1,(depth0 != null ? depth0.displayTitle : depth0),{"name":"if","hash":{},"fn":container.program(1, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
-    + "\n"
+    + "\r\n"
     + ((stack1 = helpers["if"].call(alias1,(depth0 != null ? depth0.body : depth0),{"name":"if","hash":{},"fn":container.program(3, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
-    + "\n				</div>\n			</div>\n\n		</div>\n	</div>\n\n</div>\n<div class=\"aria-label relative a11y-ignore-focus prevent-default\" tabindex=\"0\" role=\"region\">"
+    + "\r\n				</div>\r\n			</div>\r\n\r\n		</div>\r\n	</div>\r\n\r\n</div>\r\n<div class=\"aria-label relative a11y-ignore-focus prevent-default\" tabindex=\"0\" role=\"region\">"
     + alias2(alias3(((stack1 = ((stack1 = ((stack1 = (depth0 != null ? depth0._globals : depth0)) != null ? stack1._accessibility : stack1)) != null ? stack1._ariaLabels : stack1)) != null ? stack1.pageEnd : stack1), depth0))
-    + "</div>\n";
+    + "</div>\r\n";
 },"useData":true});
 
 this["Handlebars"]["templates"]["quicknav-bar"] = Handlebars.template({"1":function(container,depth0,helpers,partials,data) {
@@ -1618,7 +1466,7 @@ this["Handlebars"]["templates"]["quicknav-bar"] = Handlebars.template({"1":funct
 },"compiler":[7,">= 4.0.0"],"main":function(container,depth0,helpers,partials,data) {
     var stack1, alias1=depth0 != null ? depth0 : (container.nullContext || {}), alias2=container.lambda, alias3=container.escapeExpression;
 
-  return "<div class=\"block-inner quicknav-inner\">\n\n	<div class=\"quicknav-buttons\">\n		<button id=\"previous\" class=\"button"
+  return "<div class=\"block-inner quicknav-inner\">\r\n\r\n	<div class=\"quicknav-buttons\">\r\n		<button id=\"previous\" class=\"button"
     + ((stack1 = helpers["if"].call(alias1,((stack1 = ((stack1 = ((stack1 = (depth0 != null ? depth0.config : depth0)) != null ? stack1._buttons : stack1)) != null ? stack1._previous : stack1)) != null ? stack1._isHidden : stack1),{"name":"if","hash":{},"fn":container.program(1, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
     + ((stack1 = helpers["if"].call(alias1,((stack1 = (depth0 != null ? depth0.state : depth0)) != null ? stack1.isFirstPage : stack1),{"name":"if","hash":{},"fn":container.program(3, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
     + "\" "
@@ -1627,25 +1475,25 @@ this["Handlebars"]["templates"]["quicknav-bar"] = Handlebars.template({"1":funct
     + alias3(alias2(((stack1 = ((stack1 = ((stack1 = (depth0 != null ? depth0.config : depth0)) != null ? stack1._buttons : stack1)) != null ? stack1._previous : stack1)) != null ? stack1.text : stack1), depth0))
     + "\">"
     + alias3(alias2(((stack1 = ((stack1 = ((stack1 = (depth0 != null ? depth0.config : depth0)) != null ? stack1._buttons : stack1)) != null ? stack1._previous : stack1)) != null ? stack1.text : stack1), depth0))
-    + "</button>\n\n		<button id=\"root\" class=\"button"
+    + "</button>\r\n\r\n		<button id=\"root\" class=\"button"
     + ((stack1 = helpers["if"].call(alias1,((stack1 = ((stack1 = ((stack1 = (depth0 != null ? depth0.config : depth0)) != null ? stack1._buttons : stack1)) != null ? stack1._root : stack1)) != null ? stack1._isHidden : stack1),{"name":"if","hash":{},"fn":container.program(1, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
     + "\" aria-label=\""
     + alias3(alias2(((stack1 = ((stack1 = ((stack1 = (depth0 != null ? depth0.config : depth0)) != null ? stack1._buttons : stack1)) != null ? stack1._root : stack1)) != null ? stack1.text : stack1), depth0))
     + "\">"
     + alias3(alias2(((stack1 = ((stack1 = ((stack1 = (depth0 != null ? depth0.config : depth0)) != null ? stack1._buttons : stack1)) != null ? stack1._root : stack1)) != null ? stack1.text : stack1), depth0))
-    + "</button>\n\n		<button id=\"up\" class=\"button"
+    + "</button>\r\n\r\n		<button id=\"up\" class=\"button"
     + ((stack1 = helpers["if"].call(alias1,((stack1 = ((stack1 = ((stack1 = (depth0 != null ? depth0.config : depth0)) != null ? stack1._buttons : stack1)) != null ? stack1._up : stack1)) != null ? stack1._isHidden : stack1),{"name":"if","hash":{},"fn":container.program(1, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
     + "\" aria-label=\""
     + alias3(alias2(((stack1 = ((stack1 = ((stack1 = (depth0 != null ? depth0.config : depth0)) != null ? stack1._buttons : stack1)) != null ? stack1._up : stack1)) != null ? stack1.text : stack1), depth0))
     + "\">"
     + alias3(alias2(((stack1 = ((stack1 = ((stack1 = (depth0 != null ? depth0.config : depth0)) != null ? stack1._buttons : stack1)) != null ? stack1._up : stack1)) != null ? stack1.text : stack1), depth0))
-    + "</button>\n\n			<button id=\"close\" class=\"button"
+    + "</button>\r\n\r\n			<button id=\"close\" class=\"button"
     + ((stack1 = helpers["if"].call(alias1,((stack1 = ((stack1 = ((stack1 = (depth0 != null ? depth0.config : depth0)) != null ? stack1._buttons : stack1)) != null ? stack1._close : stack1)) != null ? stack1._isHidden : stack1),{"name":"if","hash":{},"fn":container.program(1, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
     + "\" aria-label=\""
     + alias3(alias2(((stack1 = ((stack1 = ((stack1 = (depth0 != null ? depth0.config : depth0)) != null ? stack1._buttons : stack1)) != null ? stack1._close : stack1)) != null ? stack1.text : stack1), depth0))
     + "\">"
     + alias3(alias2(((stack1 = ((stack1 = ((stack1 = (depth0 != null ? depth0.config : depth0)) != null ? stack1._buttons : stack1)) != null ? stack1._close : stack1)) != null ? stack1.text : stack1), depth0))
-    + "</button>\n\n		<button id=\"next\" class=\"button"
+    + "</button>\r\n\r\n		<button id=\"next\" class=\"button"
     + ((stack1 = helpers["if"].call(alias1,((stack1 = ((stack1 = ((stack1 = (depth0 != null ? depth0.config : depth0)) != null ? stack1._buttons : stack1)) != null ? stack1._next : stack1)) != null ? stack1._isHidden : stack1),{"name":"if","hash":{},"fn":container.program(1, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
     + ((stack1 = helpers["if"].call(alias1,((stack1 = (depth0 != null ? depth0.state : depth0)) != null ? stack1.isLastPage : stack1),{"name":"if","hash":{},"fn":container.program(3, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
     + "\" "
@@ -1654,7 +1502,7 @@ this["Handlebars"]["templates"]["quicknav-bar"] = Handlebars.template({"1":funct
     + alias3(alias2(((stack1 = ((stack1 = ((stack1 = (depth0 != null ? depth0.config : depth0)) != null ? stack1._buttons : stack1)) != null ? stack1._next : stack1)) != null ? stack1.text : stack1), depth0))
     + "\">"
     + alias3(alias2(((stack1 = ((stack1 = ((stack1 = (depth0 != null ? depth0.config : depth0)) != null ? stack1._buttons : stack1)) != null ? stack1._next : stack1)) != null ? stack1.text : stack1), depth0))
-    + "</button>\n\n	</div>\n\n	<div class=\"quicknav-information quicknav-side\">\n		<div class=\"quicknav-information-inner\">\n			Shelter, the National Campaign for Homeless People Limited<br>\n			Charity number 263710(England & Wales), SC02327 (Scotland)<br>\n			Company number 1038133<br>\n			6 South Charlotte Street, Edinburgh, EH2 4AW<br>\n			Authorised and regulated by the Financial Conduct Authority<br>\n			&#9400; Shelter Scotland 2019\n		</div>\n	</div>\n\n	<div class=\"quicknav-logo quicknav-side\">\n		<div class=\"quicknav-logo-inner\">\n		</div>\n	</div>\n\n</div>\n";
+    + "</button>\r\n\r\n	</div>\r\n\r\n	<div class=\"quicknav-information quicknav-side\">\r\n		<div class=\"quicknav-information-inner\">\r\n			Shelter, the National Campaign for Homeless People Limited<br>\r\n			Charity number 263710(England & Wales), SC02327 (Scotland)<br>\r\n			Company number 1038133<br>\r\n			6 South Charlotte Street, Edinburgh, EH2 4AW<br>\r\n			Authorised and regulated by the Financial Conduct Authority<br>\r\n			&#9400; Shelter Scotland 2019\r\n		</div>\r\n	</div>\r\n\r\n	<div class=\"quicknav-logo quicknav-side\">\r\n		<div class=\"quicknav-logo-inner\">\r\n		</div>\r\n	</div>\r\n\r\n</div>\r\n";
 },"useData":true});
 
 return this["Handlebars"];
