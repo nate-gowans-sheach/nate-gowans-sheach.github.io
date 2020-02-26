@@ -1,0 +1,538 @@
+[
+  {
+    "title": "Landing page",
+    "displayTitle": "Landing page",
+    "body": "Find out what presentation components are available within the core bundle and how you might consider using them within your courses. ",
+    "_classes": "no-header",
+    "pageBody": "<strong>Scroll down to see what presentation components are available as part of the Version 2.0 core bundle.</strong>",
+    "linkText": "View",
+    "duration": "2 mins",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5e4a75dc4fc6810a5ad8dc9f",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "src": "course/en/images/menu_thumb.jpg",
+      "alt": "Placeholder graphic."
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_quicknav": {
+      "_isEnabled": true,
+      "_isContinuous": "local",
+      "_global": {
+        "_pageNext": "co-10",
+        "_pagePrevious": "co-10"
+      },
+      "_buttons": {
+        "_root": {
+          "_isHidden": true,
+          "text": "Go to main menu"
+        },
+        "_up": {
+          "_isHidden": true,
+          "text": "Back to menu"
+        },
+        "_previous": {
+          "_isHidden": true,
+          "text": "< Previous"
+        },
+        "_close": {
+          "_isHidden": true,
+          "text": "Close course"
+        },
+        "_next": {
+          "_isHidden": false,
+          "text": "Continue with the course"
+        }
+      },
+      "_isEnableNextOnCompletion": false
+    }
+  },
+  {
+    "title": "Welfare benefits",
+    "displayTitle": "<div>Welfare</div><div>benefits</div>",
+    "body": "",
+    "_classes": "no-header",
+    "pageBody": "",
+    "linkText": "View",
+    "duration": "2 mins",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5e4a75dc4fc6810a5ad8dca0",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "Placeholder graphic.",
+      "src": "course/en/assets/c1616a3ce9ef916e316634769806b269389d7482.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "no-header",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_quicknav": {
+      "_isEnabled": true,
+      "_isEnableNextOnCompletion": false,
+      "_isContinuous": "local",
+      "_injectIntoSelector": "",
+      "_buttons": {
+        "_hasIcons": false,
+        "_root": {
+          "_isHidden": true,
+          "text": "Go to main menu",
+          "_icon": ""
+        },
+        "_up": {
+          "_isHidden": true,
+          "text": "Back to menu",
+          "_icon": ""
+        },
+        "_previous": {
+          "_isHidden": true,
+          "text": "< Previous",
+          "_icon": ""
+        },
+        "_next": {
+          "_isHidden": false,
+          "text": "Continue with the course",
+          "_icon": ""
+        },
+        "_close": {
+          "_isHidden": true,
+          "text": "Close course",
+          "_icon": ""
+        }
+      }
+    },
+    "_blockBackground": {
+      "_isActive": false
+    },
+    "_minimap": {
+      "_path": "course/en/assets/440d5fa82da0cee1ece63852513807a2f3e303f4.jpg"
+    },
+    "_splitscreen": {
+      "_isEnabled": false,
+      "_screenWidth": 900
+    }
+  },
+  {
+    "title": "Budgeting",
+    "displayTitle": "<div>Budgeting</div><div></div>",
+    "body": "",
+    "_classes": "no-header",
+    "pageBody": "",
+    "linkText": "View",
+    "duration": "2 mins",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5e4a75dc4fc6810a5ad8dca1",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "Placeholder graphic.",
+      "src": "course/en/assets/c1616a3ce9ef916e316634769806b269389d7482.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "no-header",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_quicknav": {
+      "_isEnabled": true,
+      "_isEnableNextOnCompletion": false,
+      "_isContinuous": "local",
+      "_injectIntoSelector": "",
+      "_buttons": {
+        "_hasIcons": false,
+        "_root": {
+          "_isHidden": true,
+          "text": "Go to main menu",
+          "_icon": ""
+        },
+        "_up": {
+          "_isHidden": true,
+          "text": "Back to menu",
+          "_icon": ""
+        },
+        "_previous": {
+          "_isHidden": true,
+          "text": "< Previous",
+          "_icon": ""
+        },
+        "_next": {
+          "_isHidden": false,
+          "text": "Continue with the course",
+          "_icon": ""
+        },
+        "_close": {
+          "_isHidden": true,
+          "text": "Close course",
+          "_icon": ""
+        }
+      }
+    },
+    "_blockBackground": {
+      "_isActive": false
+    },
+    "_minimap": {
+      "_path": "course/en/assets/440d5fa82da0cee1ece63852513807a2f3e303f4.jpg"
+    },
+    "_splitscreen": {
+      "_isEnabled": false,
+      "_screenWidth": 900
+    }
+  },
+  {
+    "title": "Savings",
+    "displayTitle": "<div>Savings</div><div></div>",
+    "body": "",
+    "_classes": "no-header",
+    "pageBody": "",
+    "linkText": "View",
+    "duration": "2 mins",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5e4a75dc4fc6810a5ad8dca2",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "Placeholder graphic.",
+      "src": "course/en/assets/c1616a3ce9ef916e316634769806b269389d7482.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "no-header",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_quicknav": {
+      "_isEnabled": true,
+      "_isEnableNextOnCompletion": false,
+      "_isContinuous": "local",
+      "_injectIntoSelector": "",
+      "_buttons": {
+        "_hasIcons": false,
+        "_root": {
+          "_isHidden": true,
+          "text": "Go to main menu",
+          "_icon": ""
+        },
+        "_up": {
+          "_isHidden": true,
+          "text": "Back to menu",
+          "_icon": ""
+        },
+        "_previous": {
+          "_isHidden": true,
+          "text": "< Previous",
+          "_icon": ""
+        },
+        "_next": {
+          "_isHidden": false,
+          "text": "Continue with the course",
+          "_icon": ""
+        },
+        "_close": {
+          "_isHidden": true,
+          "text": "Close course",
+          "_icon": ""
+        }
+      }
+    },
+    "_minimap": {
+      "_path": "course/en/assets/440d5fa82da0cee1ece63852513807a2f3e303f4.jpg"
+    },
+    "_blockBackground": {
+      "_isActive": false
+    },
+    "_splitscreen": {
+      "_isEnabled": false,
+      "_screenWidth": 900
+    }
+  },
+  {
+    "title": "Planning for later life",
+    "displayTitle": "<div>Planning for</div><div>later life</div>",
+    "body": "",
+    "_classes": "no-header",
+    "pageBody": "",
+    "linkText": "View",
+    "duration": "2 mins",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5e4a75dc4fc6810a5ad8dca3",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "Placeholder graphic.",
+      "src": "course/en/assets/c1616a3ce9ef916e316634769806b269389d7482.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "no-header",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_quicknav": {
+      "_isEnabled": true,
+      "_isEnableNextOnCompletion": false,
+      "_isContinuous": "local",
+      "_injectIntoSelector": "",
+      "_buttons": {
+        "_hasIcons": false,
+        "_root": {
+          "_isHidden": true,
+          "text": "Go to main menu",
+          "_icon": ""
+        },
+        "_up": {
+          "_isHidden": true,
+          "text": "Back to menu",
+          "_icon": ""
+        },
+        "_previous": {
+          "_isHidden": true,
+          "text": "< Previous",
+          "_icon": ""
+        },
+        "_next": {
+          "_isHidden": false,
+          "text": "Continue with the course",
+          "_icon": ""
+        },
+        "_close": {
+          "_isHidden": true,
+          "text": "Close course",
+          "_icon": ""
+        }
+      }
+    },
+    "_minimap": {
+      "_path": "course/en/assets/440d5fa82da0cee1ece63852513807a2f3e303f4.jpg"
+    },
+    "_blockBackground": {
+      "_isActive": false
+    },
+    "_splitscreen": {
+      "_isEnabled": false,
+      "_screenWidth": 900
+    }
+  },
+  {
+    "title": "Debt solutions",
+    "displayTitle": "<div>Debt solutions</div><div></div>",
+    "body": "",
+    "_classes": "no-header",
+    "pageBody": "",
+    "linkText": "View",
+    "duration": "2 mins",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5e4a75dc4fc6810a5ad8dca4",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "Placeholder graphic.",
+      "src": "course/en/assets/c1616a3ce9ef916e316634769806b269389d7482.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "no-header",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_quicknav": {
+      "_isEnabled": true,
+      "_isEnableNextOnCompletion": false,
+      "_isContinuous": "local",
+      "_injectIntoSelector": "",
+      "_buttons": {
+        "_hasIcons": false,
+        "_root": {
+          "_isHidden": true,
+          "text": "Go to main menu",
+          "_icon": ""
+        },
+        "_up": {
+          "_isHidden": true,
+          "text": "Back to menu",
+          "_icon": ""
+        },
+        "_previous": {
+          "_isHidden": true,
+          "text": "< Previous",
+          "_icon": ""
+        },
+        "_next": {
+          "_isHidden": false,
+          "text": "Continue with the course",
+          "_icon": ""
+        },
+        "_close": {
+          "_isHidden": true,
+          "text": "Close course",
+          "_icon": ""
+        }
+      }
+    },
+    "_minimap": {
+      "_path": "course/en/assets/440d5fa82da0cee1ece63852513807a2f3e303f4.jpg"
+    },
+    "_blockBackground": {
+      "_isActive": false
+    },
+    "_splitscreen": {
+      "_isEnabled": false,
+      "_screenWidth": 900
+    }
+  },
+  {
+    "title": "Borrowing",
+    "displayTitle": "<div>Borrowing</div><div></div>",
+    "body": "",
+    "_classes": "no-header",
+    "pageBody": "",
+    "linkText": "View",
+    "duration": "2 mins",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5e4a81994fc6810a5ad8de59",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "Placeholder graphic.",
+      "src": "course/en/assets/c1616a3ce9ef916e316634769806b269389d7482.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "no-header",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_quicknav": {
+      "_isEnabled": true,
+      "_isEnableNextOnCompletion": false,
+      "_isContinuous": "local",
+      "_injectIntoSelector": "",
+      "_buttons": {
+        "_hasIcons": false,
+        "_root": {
+          "_isHidden": true,
+          "text": "Go to main menu",
+          "_icon": ""
+        },
+        "_up": {
+          "_isHidden": true,
+          "text": "Back to menu",
+          "_icon": ""
+        },
+        "_previous": {
+          "_isHidden": true,
+          "text": "< Previous",
+          "_icon": ""
+        },
+        "_next": {
+          "_isHidden": false,
+          "text": "Continue with the course",
+          "_icon": ""
+        },
+        "_close": {
+          "_isHidden": true,
+          "text": "Close course",
+          "_icon": ""
+        }
+      }
+    },
+    "_minimap": {
+      "_path": "course/en/assets/440d5fa82da0cee1ece63852513807a2f3e303f4.jpg"
+    },
+    "_blockBackground": {
+      "_isActive": false
+    },
+    "_splitscreen": {
+      "_isEnabled": false,
+      "_screenWidth": 900
+    }
+  }
+]
